@@ -1,0 +1,1115 @@
+{
+  "meta": {
+    "name": "LevelBridge starter data",
+    "subject": "English (Class 1-10 continuous ladder)",
+    "note": "Starter content written with AI help. A teacher must review it against the school's own textbook before classroom use."
+  },
+  "levels": [
+    {
+      "id": 1,
+      "name": "Letters and simple words",
+      "classLabel": "Class 1",
+      "prerequisites": [],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Alphabet sound hunt",
+        "steps": [
+          "Show alphabet flashcards and ask children to speak the letter sound aloud.",
+          "Ask children to find objects in the room starting with that sound (e.g. /b/ for bag).",
+          "Trace simple three-letter words (CVC words: cat, sun, pen) in sand or air."
+        ]
+      },
+      "selfPractice": "Circle pictures that begin with the letter 'S' on practice worksheets."
+    },
+    {
+      "id": 2,
+      "name": "Simple sentences, nouns",
+      "classLabel": "Class 2",
+      "prerequisites": [
+        1
+      ],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Naming-word scavenger jar",
+        "steps": [
+          "Pick slips from a jar containing names of people, places, animals, and things.",
+          "Sort the slips into four columns on the board: Person, Place, Animal, Thing.",
+          "Form a short 3-word sentence using one of the nouns (e.g., 'The cat sleeps')."
+        ]
+      },
+      "selfPractice": "Underline the naming words (nouns) in five short story sentences."
+    },
+    {
+      "id": 3,
+      "name": "Nouns, verbs, simple tenses, short passage",
+      "classLabel": "Class 3",
+      "prerequisites": [
+        2
+      ],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Action verb mime game",
+        "steps": [
+          "One student mimes an everyday action (jumping, writing, eating).",
+          "The class identifies the action verb and writes it on mini-slates.",
+          "Practice changing the verb from present to past (jump -> jumped)."
+        ]
+      },
+      "selfPractice": "Read a 3-sentence animal story with a partner and identify all action words."
+    },
+    {
+      "id": 4,
+      "name": "Adjectives, pronouns, singular/plural, short passage",
+      "classLabel": "Class 4",
+      "prerequisites": [
+        3
+      ],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Describing word mystery bag",
+        "steps": [
+          "Place a mystery object inside a cloth bag; children feel and describe it (soft, round, cold).",
+          "Write describing words (adjectives) on the board.",
+          "Replace repeated nouns in short sentences with pronouns (he, she, it, they)."
+        ]
+      },
+      "selfPractice": "Rewrite short sentences by replacing repeated names with suitable pronouns."
+    },
+    {
+      "id": 5,
+      "name": "Tenses, prepositions, synonyms/antonyms, passage",
+      "classLabel": "Class 5",
+      "prerequisites": [
+        4
+      ],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Time machine grammar chart",
+        "steps": [
+          "Draw a 3-part timeline: Yesterday (Past), Today (Present), Tomorrow (Future).",
+          "Move sentence cards along the timeline and change verb tenses accordingly.",
+          "Use a small toy box to demonstrate prepositions: in, on, under, between, behind."
+        ]
+      },
+      "selfPractice": "Match cards showing opposites (antonyms) and words with similar meanings (synonyms)."
+    },
+    {
+      "id": 6,
+      "name": "Subject-verb agreement, articles, comprehension",
+      "classLabel": "Class 6",
+      "prerequisites": [
+        5
+      ],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Subject-verb balance scales",
+        "steps": [
+          "Pair singular subjects ('The bird') with singular verbs ('flies') on sentence strips.",
+          "Pair plural subjects ('The birds') with plural verbs ('fly').",
+          "Demonstrate when to use 'a' vs 'an' based on starting vowel sounds."
+        ]
+      },
+      "selfPractice": "Select the correct verb to complete sentences with compound or tricky subjects."
+    },
+    {
+      "id": 7,
+      "name": "Active and passive, conjunctions, inference",
+      "classLabel": "Class 7",
+      "prerequisites": [
+        6
+      ],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Connector bridge cards",
+        "steps": [
+          "Join two simple ideas using conjunctions (although, because, therefore, so).",
+          "Transform an active sentence ('Rohan kicked the ball') into passive ('The ball was kicked by Rohan').",
+          "Discuss what was emphasised in each version (the person vs the action)."
+        ]
+      },
+      "selfPractice": "Rewrite active voice sentences into passive voice on practice cards."
+    },
+    {
+      "id": 8,
+      "name": "Reported speech, clauses, vocabulary in context",
+      "classLabel": "Class 8",
+      "prerequisites": [
+        7
+      ],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Telephone dialogue reporting",
+        "steps": [
+          "Student A whispers direct speech: 'I am reading a book.'",
+          "Student B reports to the class: 'She said that she was reading a book.'",
+          "Highlight changes in tense (am reading -> was reading) and pronouns (I -> she)."
+        ]
+      },
+      "selfPractice": "Convert direct speech quotes into indirect reported speech in notebook."
+    },
+    {
+      "id": 9,
+      "name": "Complex sentences, punctuation, inference",
+      "classLabel": "Class 9",
+      "prerequisites": [
+        8
+      ],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Sentence combining workshop",
+        "steps": [
+          "Combine two independent clauses using a semicolon or a subordinating conjunction.",
+          "Analyze reading passages to distinguish direct facts from implied inferences.",
+          "Fix comma splices by adding suitable coordinating conjunctions."
+        ]
+      },
+      "selfPractice": "Read a short paragraph and write down two valid inferences with evidence."
+    },
+    {
+      "id": 10,
+      "name": "Error spotting, tone, cohesion, comprehension",
+      "classLabel": "Class 10",
+      "prerequisites": [
+        9
+      ],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Editor's proofreading desk",
+        "steps": [
+          "Project a paragraph containing intentional grammatical, tense, and article errors.",
+          "Have students work in pairs to spot, circle, and correct each error.",
+          "Analyze the author's tone (humorous, critical, objective, enthusiastic)."
+        ]
+      },
+      "selfPractice": "Edit a 5-sentence essay excerpt and identify the primary tone of the author."
+    }
+  ],
+  "mistakeTags": {
+    "letter_sound_confusion": {
+      "label": "Letter or sound confused",
+      "explanation": "Listen carefully to the first sound of the word: 'b' makes /b/ as in ball, while 'd' makes /d/ as in dog."
+    },
+    "noun_verb_confusion": {
+      "label": "Confused naming word (noun) with action word (verb)",
+      "explanation": "A noun names a person, place, or thing (e.g. cat, table). A verb describes an action (e.g. run, sleep)."
+    },
+    "tense_form_error": {
+      "label": "Past or present tense form error",
+      "explanation": "Check the time clue: 'yesterday' uses past tense (walked/went), whereas 'now' uses present tense (walks/is going)."
+    },
+    "plural_rule_error": {
+      "label": "Irregular plural rule error",
+      "explanation": "Some plurals change spelling instead of adding -s (e.g. child becomes children, tooth becomes teeth)."
+    },
+    "pronoun_case_error": {
+      "label": "Subject vs object pronoun confused",
+      "explanation": "Use subject pronouns (he, she, they) before verbs and object pronouns (him, her, them) after verbs or prepositions."
+    },
+    "preposition_choice_error": {
+      "label": "Preposition of time or place incorrect",
+      "explanation": "We use 'at' for clock times, 'on' for days/dates, and 'in' for months/years."
+    },
+    "synonym_antonym_reversal": {
+      "label": "Confused opposite (antonym) with similar meaning (synonym)",
+      "explanation": "A synonym means the same (large = big). An antonym means the opposite (large vs small)."
+    },
+    "subject_verb_agreement": {
+      "label": "Subject and verb do not agree in number",
+      "explanation": "A singular subject takes a singular verb (The girl sings), while a plural subject takes a plural verb (The girls sing)."
+    },
+    "article_error": {
+      "label": "Incorrect article (a / an / the)",
+      "explanation": "Use 'an' before vowel sounds (an apple, an hour) and 'a' before consonant sounds (a book)."
+    },
+    "passive_voice_confusion": {
+      "label": "Active and passive voice confused",
+      "explanation": "In passive voice, the object becomes the subject and the verb includes a form of 'to be' + past participle."
+    },
+    "conjunction_logic_error": {
+      "label": "Conjunction does not fit the logical relation",
+      "explanation": "Use 'because' for reasons, 'although' for contrast, and 'so' for results."
+    },
+    "reported_speech_shift": {
+      "label": "Backshift of tense or pronoun in indirect speech",
+      "explanation": "In reported speech, present tense usually shifts to past tense (is -> was, said that he was)."
+    },
+    "clause_boundary_error": {
+      "label": "Independent vs dependent clause boundary confused",
+      "explanation": "A dependent clause starts with a subordinator (e.g. 'Although it rained') and cannot stand alone as a sentence."
+    },
+    "punctuation_comma_splice": {
+      "label": "Run-on sentence or comma splice",
+      "explanation": "Two independent sentences cannot be joined by only a comma without a connecting conjunction."
+    },
+    "literal_interpretation_error": {
+      "label": "Inferred meaning confused with literal text",
+      "explanation": "Look beyond the literal words to what the passage implies through tone and context."
+    },
+    "contextual_vocabulary_error": {
+      "label": "Word meaning misidentified in context",
+      "explanation": "Re-read the surrounding sentence to see which dictionary definition fits the specific situation."
+    }
+  },
+  "questions": [
+    {
+      "id": "E1Q1",
+      "level": 1,
+      "prompt": "Which word begins with the letter 'B'?",
+      "options": [
+        "Ball",
+        "Dog",
+        "Cat",
+        "Sun"
+      ],
+      "answer": "Ball",
+      "wrongTags": {
+        "Dog": "letter_sound_confusion",
+        "Cat": "letter_sound_confusion",
+        "Sun": "letter_sound_confusion"
+      }
+    },
+    {
+      "id": "E1Q2",
+      "level": 1,
+      "prompt": "Which letter comes right after 'M' in the alphabet?",
+      "options": [
+        "L",
+        "O",
+        "N",
+        "P"
+      ],
+      "answer": "N",
+      "wrongTags": {
+        "L": "letter_sound_confusion",
+        "O": "letter_sound_confusion",
+        "P": "letter_sound_confusion"
+      }
+    },
+    {
+      "id": "E1Q3",
+      "level": 1,
+      "prompt": "What is the missing letter in: c _ t (an animal that meows)?",
+      "options": [
+        "o",
+        "a",
+        "u",
+        "e"
+      ],
+      "answer": "a",
+      "wrongTags": {
+        "o": "letter_sound_confusion",
+        "u": "letter_sound_confusion",
+        "e": "letter_sound_confusion"
+      }
+    },
+    {
+      "id": "E1Q4",
+      "level": 1,
+      "prompt": "Which word rhymes with 'hat'?",
+      "options": [
+        "Dog",
+        "Cup",
+        "Pen",
+        "Cat"
+      ],
+      "answer": "Cat",
+      "wrongTags": {
+        "Dog": "letter_sound_confusion",
+        "Cup": "letter_sound_confusion",
+        "Pen": "letter_sound_confusion"
+      }
+    },
+    {
+      "id": "E1Q5",
+      "level": 1,
+      "prompt": "Which word is an animal?",
+      "options": [
+        "Desk",
+        "Lion",
+        "Tree",
+        "Book"
+      ],
+      "answer": "Lion",
+      "wrongTags": {
+        "Desk": "noun_verb_confusion",
+        "Tree": "noun_verb_confusion",
+        "Book": "noun_verb_confusion"
+      }
+    },
+    {
+      "id": "E2Q1",
+      "level": 2,
+      "prompt": "Find the naming word (noun) in this sentence: 'The puppy runs fast.'",
+      "options": [
+        "puppy",
+        "runs",
+        "fast",
+        "The"
+      ],
+      "answer": "puppy",
+      "wrongTags": {
+        "runs": "noun_verb_confusion",
+        "fast": "noun_verb_confusion",
+        "The": "article_error"
+      }
+    },
+    {
+      "id": "E2Q2",
+      "level": 2,
+      "prompt": "Which word is a person?",
+      "options": [
+        "School",
+        "Pencil",
+        "Teacher",
+        "Yellow"
+      ],
+      "answer": "Teacher",
+      "wrongTags": {
+        "School": "noun_verb_confusion",
+        "Pencil": "noun_verb_confusion",
+        "Yellow": "noun_verb_confusion"
+      }
+    },
+    {
+      "id": "E2Q3",
+      "level": 2,
+      "prompt": "Choose the correct sentence:",
+      "options": [
+        "Birds flies in sky.",
+        "Birds fly in the sky.",
+        "Fly birds in the sky.",
+        "Birds flying no sky."
+      ],
+      "answer": "Birds fly in the sky.",
+      "wrongTags": {
+        "Birds flies in sky.": "subject_verb_agreement",
+        "Fly birds in the sky.": "punctuation_comma_splice",
+        "Birds flying no sky.": "tense_form_error"
+      }
+    },
+    {
+      "id": "E2Q4",
+      "level": 2,
+      "prompt": "Which word is a thing you can hold?",
+      "options": [
+        "Walk",
+        "Happy",
+        "Sing",
+        "Pencil"
+      ],
+      "answer": "Pencil",
+      "wrongTags": {
+        "Walk": "noun_verb_confusion",
+        "Happy": "noun_verb_confusion",
+        "Sing": "noun_verb_confusion"
+      }
+    },
+    {
+      "id": "E2Q5",
+      "level": 2,
+      "prompt": "What is the plural of 'cat'?",
+      "options": [
+        "Cats",
+        "Cates",
+        "Caties",
+        "Cat"
+      ],
+      "answer": "Cats",
+      "wrongTags": {
+        "Cates": "plural_rule_error",
+        "Caties": "plural_rule_error",
+        "Cat": "plural_rule_error"
+      }
+    },
+    {
+      "id": "E3Q1",
+      "level": 3,
+      "prompt": "What does Hop eat every morning?",
+      "options": [
+        "Green apples",
+        "Fresh carrots",
+        "Dry seeds",
+        "Sweet bread"
+      ],
+      "answer": "Fresh carrots",
+      "wrongTags": {
+        "Green apples": "literal_interpretation_error",
+        "Dry seeds": "literal_interpretation_error",
+        "Sweet bread": "literal_interpretation_error"
+      },
+      "passage": "Mina has a brown rabbit named Hop. Every morning, Mina feeds Hop fresh carrots. Hop jumps around the garden when he is happy."
+    },
+    {
+      "id": "E3Q2",
+      "level": 3,
+      "prompt": "Identify the action word (verb): 'The children laughed loudly.'",
+      "options": [
+        "children",
+        "loudly",
+        "laughed",
+        "The"
+      ],
+      "answer": "laughed",
+      "wrongTags": {
+        "children": "noun_verb_confusion",
+        "loudly": "noun_verb_confusion",
+        "The": "article_error"
+      }
+    },
+    {
+      "id": "E3Q3",
+      "level": 3,
+      "prompt": "Choose the past tense of 'go':",
+      "options": [
+        "went",
+        "goed",
+        "goes",
+        "gone"
+      ],
+      "answer": "went",
+      "wrongTags": {
+        "goed": "tense_form_error",
+        "goes": "tense_form_error",
+        "gone": "tense_form_error"
+      }
+    },
+    {
+      "id": "E3Q4",
+      "level": 3,
+      "prompt": "When did the green shoot appear?",
+      "options": [
+        "After two days",
+        "Next morning",
+        "After one month",
+        "After two weeks"
+      ],
+      "answer": "After two weeks",
+      "wrongTags": {
+        "After two days": "literal_interpretation_error",
+        "Next morning": "literal_interpretation_error",
+        "After one month": "literal_interpretation_error"
+      },
+      "passage": "Sunita planted a sunflower seed in a small clay pot. She watered it every day. After two weeks, a green shoot appeared."
+    },
+    {
+      "id": "E3Q5",
+      "level": 3,
+      "prompt": "Which word completes the sentence: 'Yesterday, Ali _ his bicycle.'",
+      "options": [
+        "rides",
+        "rode",
+        "riding",
+        "ride"
+      ],
+      "answer": "rode",
+      "wrongTags": {
+        "rides": "tense_form_error",
+        "riding": "tense_form_error",
+        "ride": "tense_form_error"
+      }
+    },
+    {
+      "id": "E4Q1",
+      "level": 4,
+      "prompt": "What is the describing word (adjective) in: 'The tall giraffe ate green leaves.'?",
+      "options": [
+        "tall",
+        "giraffe",
+        "ate",
+        "leaves"
+      ],
+      "answer": "tall",
+      "wrongTags": {
+        "giraffe": "noun_verb_confusion",
+        "ate": "noun_verb_confusion",
+        "leaves": "noun_verb_confusion"
+      }
+    },
+    {
+      "id": "E4Q2",
+      "level": 4,
+      "prompt": "Replace the underlined word: 'Rohan is hungry. Rohan wants an apple.'",
+      "options": [
+        "Him",
+        "His",
+        "He",
+        "They"
+      ],
+      "answer": "He",
+      "wrongTags": {
+        "Him": "pronoun_case_error",
+        "His": "pronoun_case_error",
+        "They": "pronoun_case_error"
+      }
+    },
+    {
+      "id": "E4Q3",
+      "level": 4,
+      "prompt": "What is the plural of 'child'?",
+      "options": [
+        "childs",
+        "children",
+        "childrens",
+        "childes"
+      ],
+      "answer": "children",
+      "wrongTags": {
+        "childs": "plural_rule_error",
+        "childrens": "plural_rule_error",
+        "childes": "plural_rule_error"
+      }
+    },
+    {
+      "id": "E4Q4",
+      "level": 4,
+      "prompt": "What color was the birdhouse painted?",
+      "options": [
+        "Dark brown",
+        "Light blue",
+        "Plain green",
+        "Bright yellow"
+      ],
+      "answer": "Bright yellow",
+      "wrongTags": {
+        "Dark brown": "literal_interpretation_error",
+        "Light blue": "literal_interpretation_error",
+        "Plain green": "literal_interpretation_error"
+      },
+      "passage": "Tariq built a wooden birdhouse with his grandfather. They painted it bright yellow and hung it on the mango tree. Within three days, two sparrows made a nest inside."
+    },
+    {
+      "id": "E4Q5",
+      "level": 4,
+      "prompt": "Which pronoun correctly fits: 'My parents are teachers. _ work together.'?",
+      "options": [
+        "They",
+        "Them",
+        "He",
+        "Their"
+      ],
+      "answer": "They",
+      "wrongTags": {
+        "Them": "pronoun_case_error",
+        "He": "pronoun_case_error",
+        "Their": "pronoun_case_error"
+      }
+    },
+    {
+      "id": "E5Q1",
+      "level": 5,
+      "prompt": "Choose the correct preposition: 'The cat jumped _ the table.'",
+      "options": [
+        "at",
+        "onto",
+        "between",
+        "of"
+      ],
+      "answer": "onto",
+      "wrongTags": {
+        "at": "preposition_choice_error",
+        "between": "preposition_choice_error",
+        "of": "preposition_choice_error"
+      }
+    },
+    {
+      "id": "E5Q2",
+      "level": 5,
+      "prompt": "What is the opposite (antonym) of 'ancient'?",
+      "options": [
+        "Old",
+        "Historic",
+        "Modern",
+        "Huge"
+      ],
+      "answer": "Modern",
+      "wrongTags": {
+        "Old": "synonym_antonym_reversal",
+        "Historic": "synonym_antonym_reversal",
+        "Huge": "synonym_antonym_reversal"
+      }
+    },
+    {
+      "id": "E5Q3",
+      "level": 5,
+      "prompt": "Why were the children eager on Saturday morning?",
+      "options": [
+        "To return and borrow books",
+        "To play in the breeze",
+        "To buy sweet snacks",
+        "To attend music class"
+      ],
+      "answer": "To return and borrow books",
+      "wrongTags": {
+        "To play in the breeze": "literal_interpretation_error",
+        "To buy sweet snacks": "literal_interpretation_error",
+        "To attend music class": "literal_interpretation_error"
+      },
+      "passage": "The village library opened every Saturday at nine. Children waited outside in the cool morning breeze, eager to return old adventure tales and borrow new mystery books."
+    },
+    {
+      "id": "E5Q4",
+      "level": 5,
+      "prompt": "What is a word with the same meaning (synonym) as 'rapid'?",
+      "options": [
+        "Slow",
+        "Heavy",
+        "Calm",
+        "Quick"
+      ],
+      "answer": "Quick",
+      "wrongTags": {
+        "Slow": "synonym_antonym_reversal",
+        "Heavy": "synonym_antonym_reversal",
+        "Calm": "synonym_antonym_reversal"
+      }
+    },
+    {
+      "id": "E5Q5",
+      "level": 5,
+      "prompt": "Which sentence is in future tense?",
+      "options": [
+        "We visited the museum yesterday.",
+        "We will visit the museum tomorrow.",
+        "We visit the museum often.",
+        "We were visiting the museum."
+      ],
+      "answer": "We will visit the museum tomorrow.",
+      "wrongTags": {
+        "We visited the museum yesterday.": "tense_form_error",
+        "We visit the museum often.": "tense_form_error",
+        "We were visiting the museum.": "tense_form_error"
+      }
+    },
+    {
+      "id": "E6Q1",
+      "level": 6,
+      "prompt": "Fill in the blank: 'Neither of the boys _ present today.'",
+      "options": [
+        "was",
+        "were",
+        "are",
+        "have been"
+      ],
+      "answer": "was",
+      "wrongTags": {
+        "were": "subject_verb_agreement",
+        "are": "subject_verb_agreement",
+        "have been": "subject_verb_agreement"
+      }
+    },
+    {
+      "id": "E6Q2",
+      "level": 6,
+      "prompt": "Choose the correct article: 'He is _ honest worker.'",
+      "options": [
+        "a",
+        "the",
+        "an",
+        "no article"
+      ],
+      "answer": "an",
+      "wrongTags": {
+        "a": "article_error",
+        "the": "article_error",
+        "no article": "article_error"
+      }
+    },
+    {
+      "id": "E6Q3",
+      "level": 6,
+      "prompt": "What is a major advantage of solar panels mentioned in the text?",
+      "options": [
+        "They cost nothing to install",
+        "They produce clean power without smoke",
+        "They only work during winter",
+        "They require daily chemical refills"
+      ],
+      "answer": "They produce clean power without smoke",
+      "wrongTags": {
+        "They cost nothing to install": "literal_interpretation_error",
+        "They only work during winter": "literal_interpretation_error",
+        "They require daily chemical refills": "literal_interpretation_error"
+      },
+      "passage": "Solar panels convert light directly into electrical energy without creating smoke or chemical waste. While installing panels requires initial savings, homes generate clean power for decades."
+    },
+    {
+      "id": "E6Q4",
+      "level": 6,
+      "prompt": "Which sentence has correct subject-verb agreement?",
+      "options": [
+        "The bouquet of roses smell wonderful.",
+        "The roses in bouquet smells bad.",
+        "Bouquets of roses smells sweet.",
+        "The bouquet of roses smells wonderful."
+      ],
+      "answer": "The bouquet of roses smells wonderful.",
+      "wrongTags": {
+        "The bouquet of roses smell wonderful.": "subject_verb_agreement",
+        "The roses in bouquet smells bad.": "subject_verb_agreement",
+        "Bouquets of roses smells sweet.": "subject_verb_agreement"
+      }
+    },
+    {
+      "id": "E6Q5",
+      "level": 6,
+      "prompt": "Choose the correct article: 'Mount Everest is _ highest peak in the world.'",
+      "options": [
+        "the",
+        "a",
+        "an",
+        "no article"
+      ],
+      "answer": "the",
+      "wrongTags": {
+        "a": "article_error",
+        "an": "article_error",
+        "no article": "article_error"
+      }
+    },
+    {
+      "id": "E7Q1",
+      "level": 7,
+      "prompt": "Change to passive voice: 'The chef cooked a delicious dinner.'",
+      "options": [
+        "A delicious dinner is cooked by chef.",
+        "A delicious dinner was cooked by the chef.",
+        "The chef was cooked by dinner.",
+        "Dinner cooked the chef deliciously."
+      ],
+      "answer": "A delicious dinner was cooked by the chef.",
+      "wrongTags": {
+        "A delicious dinner is cooked by chef.": "passive_voice_confusion",
+        "The chef was cooked by dinner.": "passive_voice_confusion",
+        "Dinner cooked the chef deliciously.": "passive_voice_confusion"
+      }
+    },
+    {
+      "id": "E7Q2",
+      "level": 7,
+      "prompt": "Choose the correct conjunction: '_ it rained heavily, the football match continued.'",
+      "options": [
+        "Although",
+        "Because",
+        "Therefore",
+        "Since"
+      ],
+      "answer": "Although",
+      "wrongTags": {
+        "Because": "conjunction_logic_error",
+        "Therefore": "conjunction_logic_error",
+        "Since": "conjunction_logic_error"
+      }
+    },
+    {
+      "id": "E7Q3",
+      "level": 7,
+      "prompt": "What can be inferred about Deepak's travel destination?",
+      "options": [
+        "He is going to a sunny beach resort",
+        "He is attending an indoor swimming camp",
+        "He is traveling to a cold, hilly area",
+        "He is visiting a desert in midday summer"
+      ],
+      "answer": "He is traveling to a cold, hilly area",
+      "wrongTags": {
+        "He is going to a sunny beach resort": "literal_interpretation_error",
+        "He is attending an indoor swimming camp": "literal_interpretation_error",
+        "He is visiting a desert in midday summer": "literal_interpretation_error"
+      },
+      "passage": "Deepak packed two thick sweaters, woolen gloves, and heavy boots into his travel bag. He double-checked his flashlight and sturdy walking cane before heading to the bus stand."
+    },
+    {
+      "id": "E7Q4",
+      "level": 7,
+      "prompt": "Change to active voice: 'The novel was written by Mary Shelley.'",
+      "options": [
+        "Mary Shelley was writing novel.",
+        "The novel wrote Mary Shelley.",
+        "Mary Shelley has written novel.",
+        "Mary Shelley wrote the novel."
+      ],
+      "answer": "Mary Shelley wrote the novel.",
+      "wrongTags": {
+        "Mary Shelley was writing novel.": "passive_voice_confusion",
+        "The novel wrote Mary Shelley.": "passive_voice_confusion",
+        "Mary Shelley has written novel.": "passive_voice_confusion"
+      }
+    },
+    {
+      "id": "E7Q5",
+      "level": 7,
+      "prompt": "Select the sentence with proper conjunction usage:",
+      "options": [
+        "She worked diligently, because she passed.",
+        "She worked diligently, so she passed the exam.",
+        "Although she worked diligently, she passed.",
+        "She worked diligently unless she passed."
+      ],
+      "answer": "She worked diligently, so she passed the exam.",
+      "wrongTags": {
+        "She worked diligently, because she passed.": "conjunction_logic_error",
+        "Although she worked diligently, she passed.": "conjunction_logic_error",
+        "She worked diligently unless she passed.": "conjunction_logic_error"
+      }
+    },
+    {
+      "id": "E8Q1",
+      "level": 8,
+      "prompt": "Change to reported speech: He said, 'I am learning Spanish.'",
+      "options": [
+        "He said that he was learning Spanish.",
+        "He said that I am learning Spanish.",
+        "He said that he is learning Spanish.",
+        "He said he will learn Spanish."
+      ],
+      "answer": "He said that he was learning Spanish.",
+      "wrongTags": {
+        "He said that I am learning Spanish.": "reported_speech_shift",
+        "He said that he is learning Spanish.": "reported_speech_shift",
+        "He said he will learn Spanish.": "reported_speech_shift"
+      }
+    },
+    {
+      "id": "E8Q2",
+      "level": 8,
+      "prompt": "In this passage, what does 'scrutinized' mean?",
+      "options": [
+        "Cleaned with chemical solvent",
+        "Ignored after brief glance",
+        "Examined very closely and carefully",
+        "Stored away in wooden crate"
+      ],
+      "answer": "Examined very closely and carefully",
+      "wrongTags": {
+        "Cleaned with chemical solvent": "contextual_vocabulary_error",
+        "Ignored after brief glance": "contextual_vocabulary_error",
+        "Stored away in wooden crate": "contextual_vocabulary_error"
+      },
+      "passage": "The scientist scrutinized the mineral sample under an electron microscope, noting tiny microscopic fissures that were invisible to the naked eye."
+    },
+    {
+      "id": "E8Q3",
+      "level": 8,
+      "prompt": "Identify the dependent clause: 'When the bell rang, the students left the classroom.'",
+      "options": [
+        "the students left the classroom",
+        "When the bell rang",
+        "left the classroom",
+        "the bell rang"
+      ],
+      "answer": "When the bell rang",
+      "wrongTags": {
+        "the students left the classroom": "clause_boundary_error",
+        "left the classroom": "clause_boundary_error",
+        "the bell rang": "clause_boundary_error"
+      }
+    },
+    {
+      "id": "E8Q4",
+      "level": 8,
+      "prompt": "Change to indirect speech: Sara asked, 'Are you coming to the fair?'",
+      "options": [
+        "Sara asked that are you coming.",
+        "Sara asked whether am I coming.",
+        "Sara asked you will come to fair.",
+        "Sara asked if I was coming to the fair."
+      ],
+      "answer": "Sara asked if I was coming to the fair.",
+      "wrongTags": {
+        "Sara asked that are you coming.": "reported_speech_shift",
+        "Sara asked whether am I coming.": "reported_speech_shift",
+        "Sara asked you will come to fair.": "reported_speech_shift"
+      }
+    },
+    {
+      "id": "E8Q5",
+      "level": 8,
+      "prompt": "Which sentence contains a relative clause?",
+      "options": [
+        "The teacher who taught us mathematics has retired.",
+        "The teacher retired yesterday morning.",
+        "Teaching mathematics is rewarding.",
+        "The teacher walked into the classroom."
+      ],
+      "answer": "The teacher who taught us mathematics has retired.",
+      "wrongTags": {
+        "The teacher retired yesterday morning.": "clause_boundary_error",
+        "Teaching mathematics is rewarding.": "clause_boundary_error",
+        "The teacher walked into the classroom.": "clause_boundary_error"
+      }
+    },
+    {
+      "id": "E9Q1",
+      "level": 9,
+      "prompt": "Which of the following sentences correctly fixes a comma splice?",
+      "options": [
+        "The storm was fierce, our shelter stood firm.",
+        "The storm was fierce; however, our shelter stood firm.",
+        "The storm was fierce, however our shelter stood.",
+        "The storm was fierce our shelter stood firm."
+      ],
+      "answer": "The storm was fierce; however, our shelter stood firm.",
+      "wrongTags": {
+        "The storm was fierce, our shelter stood firm.": "punctuation_comma_splice",
+        "The storm was fierce, however our shelter stood.": "punctuation_comma_splice",
+        "The storm was fierce our shelter stood firm.": "punctuation_comma_splice"
+      }
+    },
+    {
+      "id": "E9Q2",
+      "level": 9,
+      "prompt": "What does the master craftsman's reaction suggest about his character?",
+      "options": [
+        "He is impatient and angry at mistakes",
+        "He does not care about the craft at all",
+        "He is patient and understanding toward beginners",
+        "He wants the apprentice to leave immediately"
+      ],
+      "answer": "He is patient and understanding toward beginners",
+      "wrongTags": {
+        "He is impatient and angry at mistakes": "literal_interpretation_error",
+        "He does not care about the craft at all": "literal_interpretation_error",
+        "He wants the apprentice to leave immediately": "literal_interpretation_error"
+      },
+      "passage": "Although the young apprentice made several clumsy missteps on his first day, the master craftsman only smiled quietly and adjusted the boy's grip on the chisel."
+    },
+    {
+      "id": "E9Q3",
+      "level": 9,
+      "prompt": "Identify the complex sentence:",
+      "options": [
+        "Although she was fatigued, Anita completed the marathon.",
+        "Anita ran fast and won the silver medal.",
+        "Anita was fatigued, but she kept moving.",
+        "Anita finished the long city marathon."
+      ],
+      "answer": "Although she was fatigued, Anita completed the marathon.",
+      "wrongTags": {
+        "Anita ran fast and won the silver medal.": "clause_boundary_error",
+        "Anita was fatigued, but she kept moving.": "clause_boundary_error",
+        "Anita finished the long city marathon.": "clause_boundary_error"
+      }
+    },
+    {
+      "id": "E9Q4",
+      "level": 9,
+      "prompt": "Which punctuation mark is used correctly to introduce a formal list?",
+      "options": [
+        "We need three items; compass, ruler, and pencil.",
+        "We need three items- compass, ruler, and pencil.",
+        "We need: three items compass, ruler, and pencil.",
+        "We need three items: compass, ruler, and pencil."
+      ],
+      "answer": "We need three items: compass, ruler, and pencil.",
+      "wrongTags": {
+        "We need three items; compass, ruler, and pencil.": "punctuation_comma_splice",
+        "We need three items- compass, ruler, and pencil.": "punctuation_comma_splice",
+        "We need: three items compass, ruler, and pencil.": "punctuation_comma_splice"
+      }
+    },
+    {
+      "id": "E9Q5",
+      "level": 9,
+      "prompt": "In the sentence 'Having finished her project, Maya felt relieved', what is 'Having finished her project'?",
+      "options": [
+        "An independent clause",
+        "A participial phrase",
+        "A prepositional phrase of time",
+        "A relative clause"
+      ],
+      "answer": "A participial phrase",
+      "wrongTags": {
+        "An independent clause": "clause_boundary_error",
+        "A prepositional phrase of time": "clause_boundary_error",
+        "A relative clause": "clause_boundary_error"
+      }
+    },
+    {
+      "id": "E10Q1",
+      "level": 10,
+      "prompt": "What is the primary tone of the passage?",
+      "options": [
+        "Objective and analytical",
+        "Sarcastic and mocking",
+        "Furious and agitated",
+        "Playful and celebratory"
+      ],
+      "answer": "Objective and analytical",
+      "wrongTags": {
+        "Sarcastic and mocking": "literal_interpretation_error",
+        "Furious and agitated": "literal_interpretation_error",
+        "Playful and celebratory": "literal_interpretation_error"
+      },
+      "passage": "The committee has deliberated for six grueling hours without consensus. While some delegates urge immediate legislation, others caution that hurried policies often produce unintended economic disruption."
+    },
+    {
+      "id": "E10Q2",
+      "level": 10,
+      "prompt": "Spot the grammatical error: 'Each of the participants were given a certificate.'",
+      "options": [
+        "'Each' should be 'Every'",
+        "'participants' should be 'participant'",
+        "'were' should be replaced with 'was'",
+        "'certificate' should be 'certifications'"
+      ],
+      "answer": "'were' should be replaced with 'was'",
+      "wrongTags": {
+        "'Each' should be 'Every'": "subject_verb_agreement",
+        "'participants' should be 'participant'": "subject_verb_agreement",
+        "'certificate' should be 'certifications'": "plural_rule_error"
+      }
+    },
+    {
+      "id": "E10Q3",
+      "level": 10,
+      "prompt": "Which sentence displays parallel structure?",
+      "options": [
+        "She likes to read novels, playing badminton, and bakes cakes.",
+        "She likes reading novels, playing badminton, and baking cakes.",
+        "She likes novels, to play badminton, and cakes.",
+        "She likes reading novels, badminton, and to bake cakes."
+      ],
+      "answer": "She likes reading novels, playing badminton, and baking cakes.",
+      "wrongTags": {
+        "She likes to read novels, playing badminton, and bakes cakes.": "punctuation_comma_splice",
+        "She likes novels, to play badminton, and cakes.": "punctuation_comma_splice",
+        "She likes reading novels, badminton, and to bake cakes.": "punctuation_comma_splice"
+      }
+    },
+    {
+      "id": "E10Q4",
+      "level": 10,
+      "prompt": "What central idea does the author convey about the aqueduct?",
+      "options": [
+        "It was an unnecessary decorative luxury",
+        "It failed to solve historical water shortages",
+        "It caused conflicts between neighbouring towns",
+        "It represents wise long-term planning that sustained the community"
+      ],
+      "answer": "It represents wise long-term planning that sustained the community",
+      "wrongTags": {
+        "It was an unnecessary decorative luxury": "literal_interpretation_error",
+        "It failed to solve historical water shortages": "literal_interpretation_error",
+        "It caused conflicts between neighbouring towns": "literal_interpretation_error"
+      },
+      "passage": "The ancient aqueduct stands not merely as stone arches across a ravine, but as enduring testimony to municipal foresight, ensuring thirsty communities flourished through recurring droughts."
+    },
+    {
+      "id": "E10Q5",
+      "level": 10,
+      "prompt": "Choose the cohesive transitional phrase that expresses concession:",
+      "options": [
+        "Be that as it may",
+        "In addition to this",
+        "As a direct result",
+        "For this specific reason"
+      ],
+      "answer": "Be that as it may",
+      "wrongTags": {
+        "In addition to this": "conjunction_logic_error",
+        "As a direct result": "conjunction_logic_error",
+        "For this specific reason": "conjunction_logic_error"
+      }
+    }
+  ]
+}

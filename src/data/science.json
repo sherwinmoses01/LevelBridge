@@ -1,0 +1,1113 @@
+{
+  "meta": {
+    "name": "LevelBridge starter data",
+    "subject": "Science (Class 1-10 continuous ladder)",
+    "note": "Starter content written with AI help. A teacher must review it against the school's own textbook before classroom use."
+  },
+  "levels": [
+    {
+      "id": 1,
+      "name": "Living and non-living, body parts",
+      "classLabel": "Class 1",
+      "prerequisites": [],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Nature walk and senses check",
+        "steps": [
+          "Take students into the schoolyard to observe living plants/insects and non-living stones/benches.",
+          "Categorize items into two columns on a slate: 'Needs food & grows' vs 'Does not grow'.",
+          "Point to eyes, ears, nose, tongue, skin to review the five sense organs."
+        ]
+      },
+      "selfPractice": "Draw two living things and two non-living things in drawing notebook."
+    },
+    {
+      "id": 2,
+      "name": "Animals, habitats, food, water, air",
+      "classLabel": "Class 2",
+      "prerequisites": [
+        1
+      ],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Animal home and diet sorting",
+        "steps": [
+          "Sort animal picture cards into habitats: Land, Water, Sky/Trees.",
+          "Sort cards by diet: Plant-eaters (herbivores) vs Flesh-eaters (carnivores).",
+          "Demonstrate that air is all around by trapping it in an inflated balloon."
+        ]
+      },
+      "selfPractice": "Match animals to their homes (e.g. bird -> nest, dog -> kennel, fish -> pond)."
+    },
+    {
+      "id": 3,
+      "name": "Plant parts, food groups, soil, light",
+      "classLabel": "Class 3",
+      "prerequisites": [
+        2
+      ],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Uprooted weed inspection and plate balancing",
+        "steps": [
+          "Examine a real potted plant: identify taproot, fibrous roots, stem, leaves, and flower buds.",
+          "Sort meal items (rice, dal, spinach, milk) into energy-giving, body-building, and protective food groups.",
+          "Show how light travels in a straight line using cardboard holes and a flashlight."
+        ]
+      },
+      "selfPractice": "Label parts of a plant diagram (Root, Stem, Leaf, Flower) on a worksheet."
+    },
+    {
+      "id": 4,
+      "name": "Body systems intro, adaptation, states of matter",
+      "classLabel": "Class 4",
+      "prerequisites": [
+        3
+      ],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Three states with ice and water",
+        "steps": [
+          "Show ice cube melting into liquid water, and boil a drop to show water vapor (solid, liquid, gas).",
+          "Discuss animal adaptations: why camels have broad padded feet and polar bears have blubber.",
+          "Trace breathing cycle: nose -> windpipe -> lungs expanding."
+        ]
+      },
+      "selfPractice": "Classify listed materials (wood, oil, steam, pebble, juice) into Solid, Liquid, or Gas."
+    },
+    {
+      "id": 5,
+      "name": "Digestion, materials, simple machines",
+      "classLabel": "Class 5",
+      "prerequisites": [
+        4
+      ],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Ruler lever and digestive pathway",
+        "steps": [
+          "Use a wooden ruler over a pencil fulcrum to lift a book, modeling a simple lever.",
+          "Trace the food path from mouth -> esophagus -> stomach -> small intestine -> large intestine.",
+          "Compare properties of materials (conductors vs insulators, transparent vs opaque)."
+        ]
+      },
+      "selfPractice": "Identify the simple machine (lever, inclined plane, pulley) in everyday classroom tools."
+    },
+    {
+      "id": 6,
+      "name": "Separation of mixtures, motion, plants",
+      "classLabel": "Class 6",
+      "prerequisites": [
+        5
+      ],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Filter paper and pendulum swing",
+        "steps": [
+          "Separate sand and water using a paper funnel and filter paper.",
+          "Demonstrate periodic motion using a weighted string pendulum.",
+          "Examine leaf venation (parallel in grass vs reticulate in peepal) and relate to root types."
+        ]
+      },
+      "selfPractice": "List appropriate separation methods for salt water, rice with stones, and tea leaves."
+    },
+    {
+      "id": 7,
+      "name": "Acids and bases, heat, nutrition in plants",
+      "classLabel": "Class 7",
+      "prerequisites": [
+        6
+      ],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Turmeric indicator test",
+        "steps": [
+          "Dip turmeric paper into lemon juice (acid, stays yellow) and soap solution (base, turns deep red).",
+          "Explain conduction along a metal spoon vs convection in heated water.",
+          "Discuss photosynthesis formula: sunlight + chlorophyll + carbon dioxide + water -> glucose + oxygen."
+        ]
+      },
+      "selfPractice": "Test home substances (vinegar, baking soda, lime juice) with turmeric indicator paper."
+    },
+    {
+      "id": 8,
+      "name": "Force, pressure, cells, chemical changes",
+      "classLabel": "Class 8",
+      "prerequisites": [
+        7
+      ],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Onion peel cell and balloon pressure",
+        "steps": [
+          "Observe onion epidermis under microscope to see cell wall, nucleus, and cytoplasm.",
+          "Press a sharp pin vs a blunt wooden block against clay to show Pressure = Force / Area.",
+          "Mix vinegar and baking soda to observe effervescence of CO2 gas as a chemical change."
+        ]
+      },
+      "selfPractice": "Differentiate plant cells from animal cells in a comparative two-column table."
+    },
+    {
+      "id": 9,
+      "name": "Atoms and molecules, motion, tissues",
+      "classLabel": "Class 9",
+      "prerequisites": [
+        8
+      ],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Bohr atom model and ticker tape motion",
+        "steps": [
+          "Build atomic models of carbon and oxygen with clay balls (protons, neutrons, electrons).",
+          "Calculate speed and acceleration from distance-time tables.",
+          "Examine permanent slides of plant tissues (xylem, phloem) and animal tissues (epithelial, muscle)."
+        ]
+      },
+      "selfPractice": "Calculate molecular mass of water (H2O) and carbon dioxide (CO2) from atomic masses."
+    },
+    {
+      "id": 10,
+      "name": "Chemical reactions, electricity, life processes",
+      "classLabel": "Class 10",
+      "prerequisites": [
+        9
+      ],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Simple circuit and displacement reaction",
+        "steps": [
+          "Dip an iron nail into blue copper sulfate solution to witness displacement and color change to green.",
+          "Build a series circuit with bulb, key, and dry cell; measure voltage with multimeter.",
+          "Trace human nephron structure and function in kidney filtration."
+        ]
+      },
+      "selfPractice": "Balance chemical equations and solve Ohm's law calculations (V = IR)."
+    }
+  ],
+  "mistakeTags": {
+    "living_characteristic_error": {
+      "label": "Confused living vs non-living characteristics",
+      "explanation": "Living things grow, breathe, need food/water, and reproduce. Non-living objects do not."
+    },
+    "body_part_function_error": {
+      "label": "Body organ function misidentified",
+      "explanation": "Different organs perform specific tasks: eyes see, lungs breathe, heart pumps blood, stomach digests."
+    },
+    "habitat_adaptation_confusion": {
+      "label": "Animal habitat or physical adaptation confused",
+      "explanation": "Animals have physical traits suited to their habitats (e.g. fins and gills for water, thick fur for polar cold)."
+    },
+    "herbivore_carnivore_omnivore": {
+      "label": "Feeding classification confused",
+      "explanation": "Herbivores eat only plants, carnivores eat only other animals, and omnivores eat both plants and animals."
+    },
+    "plant_part_function_confusion": {
+      "label": "Plant organ function confused",
+      "explanation": "Roots absorb water/nutrients and anchor; stems transport; leaves perform photosynthesis; flowers produce seeds."
+    },
+    "food_nutrient_group_confusion": {
+      "label": "Nutrient group or function confused",
+      "explanation": "Carbohydrates & fats provide energy; proteins build and repair tissues; vitamins & minerals protect against disease."
+    },
+    "states_of_matter_confusion": {
+      "label": "Physical state of matter or phase change confused",
+      "explanation": "Solids have definite shape and volume; liquids flow with definite volume; gases expand to fill any container."
+    },
+    "organ_system_function_error": {
+      "label": "Organ system responsibility confused",
+      "explanation": "Circulatory transports blood, respiratory exchanges gases, digestive breaks down food, nervous controls responses."
+    },
+    "simple_machine_confusion": {
+      "label": "Type of simple machine misidentified",
+      "explanation": "Six simple machines: lever, pulley, wheel & axle, inclined plane, wedge, and screw."
+    },
+    "mixture_separation_error": {
+      "label": "Separation technique does not match properties",
+      "explanation": "Filtration separates insoluble solids from liquids; evaporation recovers dissolved solutes; distillation separates based on boiling points."
+    },
+    "acids_bases_indicators": {
+      "label": "Acidic vs basic property or indicator color confused",
+      "explanation": "Acids turn blue litmus red and taste sour; bases turn red litmus blue, feel soapy, and taste bitter."
+    },
+    "heat_transfer_mode_confusion": {
+      "label": "Conduction, convection, or radiation confused",
+      "explanation": "Conduction transfers heat through direct contact in solids; convection through fluids; radiation through electromagnetic waves."
+    },
+    "force_motion_law_error": {
+      "label": "Force, friction, or Newton's law misinterpreted",
+      "explanation": "Friction opposes relative motion between surfaces; balanced forces result in zero net acceleration."
+    },
+    "cell_organelle_confusion": {
+      "label": "Cell organelle function confused",
+      "explanation": "Mitochondria release energy (ATP); chloroplasts photosynthesize in plants; nucleus stores genetic DNA."
+    },
+    "atomic_molecular_confusion": {
+      "label": "Atoms, molecules, or subatomic particles confused",
+      "explanation": "Protons and neutrons reside in the nucleus, surrounded by electrons in shells. An element contains identical atoms."
+    },
+    "chemical_vs_physical_change": {
+      "label": "Physical change confused with chemical reaction",
+      "explanation": "Physical changes alter state or appearance without creating new substances; chemical reactions form new chemical bonds."
+    },
+    "circuit_electricity_error": {
+      "label": "Open vs closed circuit or Ohm's law relation confused",
+      "explanation": "Current flows only in a closed complete circuit; electric current is the flow of electric charge (electrons)."
+    },
+    "respiration_photosynthesis_reversal": {
+      "label": "Photosynthesis confused with cellular respiration",
+      "explanation": "Photosynthesis consumes CO2 and water to produce glucose and O2; respiration consumes glucose and O2 to produce energy and CO2."
+    }
+  },
+  "questions": [
+    {
+      "id": "S1Q1",
+      "level": 1,
+      "prompt": "Which of these is a living thing?",
+      "options": [
+        "Sparrow",
+        "Wooden chair",
+        "Plastic bottle",
+        "Stone"
+      ],
+      "answer": "Sparrow",
+      "wrongTags": {
+        "Wooden chair": "living_characteristic_error",
+        "Plastic bottle": "living_characteristic_error",
+        "Stone": "living_characteristic_error"
+      }
+    },
+    {
+      "id": "S1Q2",
+      "level": 1,
+      "prompt": "Which body organ helps us to hear sounds?",
+      "options": [
+        "Eyes",
+        "Nose",
+        "Ears",
+        "Tongue"
+      ],
+      "answer": "Ears",
+      "wrongTags": {
+        "Eyes": "body_part_function_error",
+        "Nose": "body_part_function_error",
+        "Tongue": "body_part_function_error"
+      }
+    },
+    {
+      "id": "S1Q3",
+      "level": 1,
+      "prompt": "What do living plants need to grow?",
+      "options": [
+        "Cold ice cream",
+        "Water and sunlight",
+        "Plastic bags",
+        "Dark closed boxes"
+      ],
+      "answer": "Water and sunlight",
+      "wrongTags": {
+        "Cold ice cream": "living_characteristic_error",
+        "Plastic bags": "living_characteristic_error",
+        "Dark closed boxes": "living_characteristic_error"
+      }
+    },
+    {
+      "id": "S1Q4",
+      "level": 1,
+      "prompt": "Which sense organ do we use to taste sweet mangoes?",
+      "options": [
+        "Skin",
+        "Nose",
+        "Ears",
+        "Tongue"
+      ],
+      "answer": "Tongue",
+      "wrongTags": {
+        "Skin": "body_part_function_error",
+        "Nose": "body_part_function_error",
+        "Ears": "body_part_function_error"
+      }
+    },
+    {
+      "id": "S1Q5",
+      "level": 1,
+      "prompt": "Which object does NOT breathe or grow?",
+      "options": [
+        "Bicycle",
+        "Puppy",
+        "Rose bush",
+        "Goldfish"
+      ],
+      "answer": "Bicycle",
+      "wrongTags": {
+        "Puppy": "living_characteristic_error",
+        "Rose bush": "living_characteristic_error",
+        "Goldfish": "living_characteristic_error"
+      }
+    },
+    {
+      "id": "S2Q1",
+      "level": 2,
+      "prompt": "Which of these animals lives entirely in water?",
+      "options": [
+        "Cow",
+        "Fish",
+        "Monkey",
+        "Elephant"
+      ],
+      "answer": "Fish",
+      "wrongTags": {
+        "Cow": "habitat_adaptation_confusion",
+        "Monkey": "habitat_adaptation_confusion",
+        "Elephant": "habitat_adaptation_confusion"
+      }
+    },
+    {
+      "id": "S2Q2",
+      "level": 2,
+      "prompt": "Which animal eats only plants (herbivore)?",
+      "options": [
+        "Deer",
+        "Lion",
+        "Tiger",
+        "Leopard"
+      ],
+      "answer": "Deer",
+      "wrongTags": {
+        "Lion": "herbivore_carnivore_omnivore",
+        "Tiger": "herbivore_carnivore_omnivore",
+        "Leopard": "herbivore_carnivore_omnivore"
+      }
+    },
+    {
+      "id": "S2Q3",
+      "level": 2,
+      "prompt": "What happens when you blow into a balloon?",
+      "options": [
+        "Water fills inside",
+        "Heavy stones collect inside",
+        "Air fills inside the balloon",
+        "The balloon shrinks"
+      ],
+      "answer": "Air fills inside the balloon",
+      "wrongTags": {
+        "Water fills inside": "states_of_matter_confusion",
+        "Heavy stones collect inside": "living_characteristic_error",
+        "The balloon shrinks": "force_motion_law_error"
+      }
+    },
+    {
+      "id": "S2Q4",
+      "level": 2,
+      "prompt": "Where do wild birds build their nests to lay eggs?",
+      "options": [
+        "Deep under ocean water",
+        "Inside heavy clouds",
+        "Inside fire pits",
+        "In trees"
+      ],
+      "answer": "In trees",
+      "wrongTags": {
+        "Deep under ocean water": "habitat_adaptation_confusion",
+        "Inside heavy clouds": "habitat_adaptation_confusion",
+        "Inside fire pits": "habitat_adaptation_confusion"
+      }
+    },
+    {
+      "id": "S2Q5",
+      "level": 2,
+      "prompt": "Which of these is a carnivore (meat-eater)?",
+      "options": [
+        "Rabbit",
+        "Tiger",
+        "Sheep",
+        "Goat"
+      ],
+      "answer": "Tiger",
+      "wrongTags": {
+        "Rabbit": "herbivore_carnivore_omnivore",
+        "Sheep": "herbivore_carnivore_omnivore",
+        "Goat": "herbivore_carnivore_omnivore"
+      }
+    },
+    {
+      "id": "S3Q1",
+      "level": 3,
+      "prompt": "Which plant part absorbs water and mineral nutrients from the soil?",
+      "options": [
+        "Roots",
+        "Flowers",
+        "Leaves",
+        "Seeds"
+      ],
+      "answer": "Roots",
+      "wrongTags": {
+        "Flowers": "plant_part_function_confusion",
+        "Leaves": "plant_part_function_confusion",
+        "Seeds": "plant_part_function_confusion"
+      }
+    },
+    {
+      "id": "S3Q2",
+      "level": 3,
+      "prompt": "Which food nutrient helps build and repair muscles in our body?",
+      "options": [
+        "Sugar",
+        "Fats only",
+        "Protein",
+        "Water only"
+      ],
+      "answer": "Protein",
+      "wrongTags": {
+        "Sugar": "food_nutrient_group_confusion",
+        "Fats only": "food_nutrient_group_confusion",
+        "Water only": "food_nutrient_group_confusion"
+      }
+    },
+    {
+      "id": "S3Q3",
+      "level": 3,
+      "prompt": "In which part of a green plant does food making (photosynthesis) take place?",
+      "options": [
+        "Roots",
+        "Leaves",
+        "Bark",
+        "Seeds"
+      ],
+      "answer": "Leaves",
+      "wrongTags": {
+        "Roots": "plant_part_function_confusion",
+        "Bark": "plant_part_function_confusion",
+        "Seeds": "plant_part_function_confusion"
+      }
+    },
+    {
+      "id": "S3Q4",
+      "level": 3,
+      "prompt": "How does light travel from a torch or the sun?",
+      "options": [
+        "In wavy circles",
+        "In zig-zag steps",
+        "It stands still",
+        "In straight lines"
+      ],
+      "answer": "In straight lines",
+      "wrongTags": {
+        "In wavy circles": "force_motion_law_error",
+        "In zig-zag steps": "force_motion_law_error",
+        "It stands still": "force_motion_law_error"
+      }
+    },
+    {
+      "id": "S3Q5",
+      "level": 3,
+      "prompt": "Which food group gives quick energy to run and play?",
+      "options": [
+        "Carbohydrates",
+        "Fibers only",
+        "Minerals only",
+        "Water only"
+      ],
+      "answer": "Carbohydrates",
+      "wrongTags": {
+        "Fibers only": "food_nutrient_group_confusion",
+        "Minerals only": "food_nutrient_group_confusion",
+        "Water only": "food_nutrient_group_confusion"
+      }
+    },
+    {
+      "id": "S4Q1",
+      "level": 4,
+      "prompt": "Which state of matter has a fixed volume but takes the shape of its container?",
+      "options": [
+        "Solid",
+        "Liquid",
+        "Gas",
+        "Plasma only"
+      ],
+      "answer": "Liquid",
+      "wrongTags": {
+        "Solid": "states_of_matter_confusion",
+        "Gas": "states_of_matter_confusion",
+        "Plasma only": "states_of_matter_confusion"
+      }
+    },
+    {
+      "id": "S4Q2",
+      "level": 4,
+      "prompt": "Why do camels have broad, padded feet?",
+      "options": [
+        "To walk easily on loose desert sand",
+        "To swim in deep river water",
+        "To climb tall mountain rocks",
+        "To run faster on ice sheets"
+      ],
+      "answer": "To walk easily on loose desert sand",
+      "wrongTags": {
+        "To swim in deep river water": "habitat_adaptation_confusion",
+        "To climb tall mountain rocks": "habitat_adaptation_confusion",
+        "To run faster on ice sheets": "habitat_adaptation_confusion"
+      }
+    },
+    {
+      "id": "S4Q3",
+      "level": 4,
+      "prompt": "What is the primary organ of the human respiratory system where oxygen enters blood?",
+      "options": [
+        "Stomach",
+        "Kidneys",
+        "Lungs",
+        "Liver"
+      ],
+      "answer": "Lungs",
+      "wrongTags": {
+        "Stomach": "organ_system_function_error",
+        "Kidneys": "organ_system_function_error",
+        "Liver": "organ_system_function_error"
+      }
+    },
+    {
+      "id": "S4Q4",
+      "level": 4,
+      "prompt": "What process turns liquid water into water vapor gas when heated?",
+      "options": [
+        "Freezing",
+        "Condensation",
+        "Precipitation",
+        "Evaporation"
+      ],
+      "answer": "Evaporation",
+      "wrongTags": {
+        "Freezing": "states_of_matter_confusion",
+        "Condensation": "states_of_matter_confusion",
+        "Precipitation": "states_of_matter_confusion"
+      }
+    },
+    {
+      "id": "S4Q5",
+      "level": 4,
+      "prompt": "Which organ pumps blood throughout the human body?",
+      "options": [
+        "Heart",
+        "Stomach",
+        "Lungs",
+        "Brain"
+      ],
+      "answer": "Heart",
+      "wrongTags": {
+        "Stomach": "organ_system_function_error",
+        "Lungs": "organ_system_function_error",
+        "Brain": "organ_system_function_error"
+      }
+    },
+    {
+      "id": "S5Q1",
+      "level": 5,
+      "prompt": "Where is most of the digested food absorbed into the bloodstream?",
+      "options": [
+        "Stomach",
+        "Small intestine",
+        "Esophagus",
+        "Large intestine"
+      ],
+      "answer": "Small intestine",
+      "wrongTags": {
+        "Stomach": "organ_system_function_error",
+        "Esophagus": "organ_system_function_error",
+        "Large intestine": "organ_system_function_error"
+      }
+    },
+    {
+      "id": "S5Q2",
+      "level": 5,
+      "prompt": "A ramp used to roll heavy wheelbarrows into a truck is an example of which simple machine?",
+      "options": [
+        "Pulley",
+        "Lever",
+        "Inclined plane",
+        "Wedge"
+      ],
+      "answer": "Inclined plane",
+      "wrongTags": {
+        "Pulley": "simple_machine_confusion",
+        "Lever": "simple_machine_confusion",
+        "Wedge": "simple_machine_confusion"
+      }
+    },
+    {
+      "id": "S5Q3",
+      "level": 5,
+      "prompt": "Which material allows electricity to pass through easily (good conductor)?",
+      "options": [
+        "Copper wire",
+        "Dry wood",
+        "Rubber band",
+        "Plastic strip"
+      ],
+      "answer": "Copper wire",
+      "wrongTags": {
+        "Dry wood": "circuit_electricity_error",
+        "Rubber band": "circuit_electricity_error",
+        "Plastic strip": "circuit_electricity_error"
+      }
+    },
+    {
+      "id": "S5Q4",
+      "level": 5,
+      "prompt": "A seesaw in a playground is an example of which simple machine?",
+      "options": [
+        "Screw",
+        "Wedge",
+        "Pulley",
+        "Lever"
+      ],
+      "answer": "Lever",
+      "wrongTags": {
+        "Screw": "simple_machine_confusion",
+        "Wedge": "simple_machine_confusion",
+        "Pulley": "simple_machine_confusion"
+      }
+    },
+    {
+      "id": "S5Q5",
+      "level": 5,
+      "prompt": "Which organ stores and churns food with acidic digestive juices?",
+      "options": [
+        "Lungs",
+        "Stomach",
+        "Kidneys",
+        "Windpipe"
+      ],
+      "answer": "Stomach",
+      "wrongTags": {
+        "Lungs": "organ_system_function_error",
+        "Kidneys": "organ_system_function_error",
+        "Windpipe": "organ_system_function_error"
+      }
+    },
+    {
+      "id": "S6Q1",
+      "level": 6,
+      "prompt": "Which separation technique is best for separating fine sand from water?",
+      "options": [
+        "Filtration",
+        "Evaporation",
+        "Magnetic separation",
+        "Churning"
+      ],
+      "answer": "Filtration",
+      "wrongTags": {
+        "Evaporation": "mixture_separation_error",
+        "Magnetic separation": "mixture_separation_error",
+        "Churning": "mixture_separation_error"
+      }
+    },
+    {
+      "id": "S6Q2",
+      "level": 6,
+      "prompt": "The motion of a child on a playground swing back and forth is an example of:",
+      "options": [
+        "Circular motion only",
+        "Rectilinear motion in straight line",
+        "Periodic motion",
+        "Random motion"
+      ],
+      "answer": "Periodic motion",
+      "wrongTags": {
+        "Circular motion only": "force_motion_law_error",
+        "Rectilinear motion in straight line": "force_motion_law_error",
+        "Random motion": "force_motion_law_error"
+      }
+    },
+    {
+      "id": "S6Q3",
+      "level": 6,
+      "prompt": "Plants with parallel leaf venation (like grasses) generally possess which type of root system?",
+      "options": [
+        "Taproot system",
+        "Fibrous roots",
+        "Aerial prop roots",
+        "Stilt roots"
+      ],
+      "answer": "Fibrous roots",
+      "wrongTags": {
+        "Taproot system": "plant_part_function_confusion",
+        "Aerial prop roots": "plant_part_function_confusion",
+        "Stilt roots": "plant_part_function_confusion"
+      }
+    },
+    {
+      "id": "S6Q4",
+      "level": 6,
+      "prompt": "How can salt be recovered from clear salt-water solution?",
+      "options": [
+        "By using a hand sieve",
+        "By paper filtration",
+        "By picking with tweezers",
+        "By evaporating the water"
+      ],
+      "answer": "By evaporating the water",
+      "wrongTags": {
+        "By using a hand sieve": "mixture_separation_error",
+        "By paper filtration": "mixture_separation_error",
+        "By picking with tweezers": "mixture_separation_error"
+      }
+    },
+    {
+      "id": "S6Q5",
+      "level": 6,
+      "prompt": "Which of the following is a non-contact force?",
+      "options": [
+        "Magnetic force",
+        "Frictional force",
+        "Muscular force",
+        "Mechanical push"
+      ],
+      "answer": "Magnetic force",
+      "wrongTags": {
+        "Frictional force": "force_motion_law_error",
+        "Muscular force": "force_motion_law_error",
+        "Mechanical push": "force_motion_law_error"
+      }
+    },
+    {
+      "id": "S7Q1",
+      "level": 7,
+      "prompt": "What color does blue litmus paper turn when dipped into lemon juice (an acid)?",
+      "options": [
+        "Blue",
+        "Red",
+        "Green",
+        "Colorless"
+      ],
+      "answer": "Red",
+      "wrongTags": {
+        "Blue": "acids_bases_indicators",
+        "Green": "acids_bases_indicators",
+        "Colorless": "acids_bases_indicators"
+      }
+    },
+    {
+      "id": "S7Q2",
+      "level": 7,
+      "prompt": "How does heat transfer through a solid steel rod when one end is heated in a flame?",
+      "options": [
+        "Conduction",
+        "Convection",
+        "Radiation",
+        "Sublimation"
+      ],
+      "answer": "Conduction",
+      "wrongTags": {
+        "Convection": "heat_transfer_mode_confusion",
+        "Radiation": "heat_transfer_mode_confusion",
+        "Sublimation": "heat_transfer_mode_confusion"
+      }
+    },
+    {
+      "id": "S7Q3",
+      "level": 7,
+      "prompt": "Which gas is released by green plants during the process of photosynthesis?",
+      "options": [
+        "Carbon dioxide",
+        "Nitrogen",
+        "Oxygen",
+        "Methane"
+      ],
+      "answer": "Oxygen",
+      "wrongTags": {
+        "Carbon dioxide": "respiration_photosynthesis_reversal",
+        "Nitrogen": "respiration_photosynthesis_reversal",
+        "Methane": "respiration_photosynthesis_reversal"
+      }
+    },
+    {
+      "id": "S7Q4",
+      "level": 7,
+      "prompt": "What color does turmeric paper turn when exposed to a basic substance like soap solution?",
+      "options": [
+        "Bright yellow",
+        "Deep blue",
+        "Colorless white",
+        "Reddish-brown"
+      ],
+      "answer": "Reddish-brown",
+      "wrongTags": {
+        "Bright yellow": "acids_bases_indicators",
+        "Deep blue": "acids_bases_indicators",
+        "Colorless white": "acids_bases_indicators"
+      }
+    },
+    {
+      "id": "S7Q5",
+      "level": 7,
+      "prompt": "How does heat from the sun travel across the vacuum of outer space to reach the Earth?",
+      "options": [
+        "Conduction",
+        "Radiation",
+        "Convection",
+        "Evaporation"
+      ],
+      "answer": "Radiation",
+      "wrongTags": {
+        "Conduction": "heat_transfer_mode_confusion",
+        "Convection": "heat_transfer_mode_confusion",
+        "Evaporation": "heat_transfer_mode_confusion"
+      }
+    },
+    {
+      "id": "S8Q1",
+      "level": 8,
+      "prompt": "Which cell organelle is known as the 'powerhouse of the cell' because it produces cellular energy?",
+      "options": [
+        "Mitochondrion",
+        "Ribosome",
+        "Vacuole",
+        "Endoplasmic reticulum"
+      ],
+      "answer": "Mitochondrion",
+      "wrongTags": {
+        "Ribosome": "cell_organelle_confusion",
+        "Vacuole": "cell_organelle_confusion",
+        "Endoplasmic reticulum": "cell_organelle_confusion"
+      }
+    },
+    {
+      "id": "S8Q2",
+      "level": 8,
+      "prompt": "What is the relationship between Pressure, Force, and Area?",
+      "options": [
+        "Pressure = Force × Area",
+        "Pressure = Force / Area",
+        "Pressure = Area / Force",
+        "Pressure = Force + Area"
+      ],
+      "answer": "Pressure = Force / Area",
+      "wrongTags": {
+        "Pressure = Force × Area": "force_motion_law_error",
+        "Pressure = Area / Force": "force_motion_law_error",
+        "Pressure = Force + Area": "force_motion_law_error"
+      }
+    },
+    {
+      "id": "S8Q3",
+      "level": 8,
+      "prompt": "Which of the following represents a chemical change (forms a new substance)?",
+      "options": [
+        "Melting of ice into water",
+        "Tearing paper into small strips",
+        "Rusting of iron in humid air",
+        "Boiling water into steam"
+      ],
+      "answer": "Rusting of iron in humid air",
+      "wrongTags": {
+        "Melting of ice into water": "chemical_vs_physical_change",
+        "Tearing paper into small strips": "chemical_vs_physical_change",
+        "Boiling water into steam": "chemical_vs_physical_change"
+      }
+    },
+    {
+      "id": "S8Q4",
+      "level": 8,
+      "prompt": "Which cellular feature is present in plant cells but absent in animal cells?",
+      "options": [
+        "Mitochondria",
+        "Cytoplasm",
+        "Cell membrane",
+        "Cell wall and chloroplasts"
+      ],
+      "answer": "Cell wall and chloroplasts",
+      "wrongTags": {
+        "Mitochondria": "cell_organelle_confusion",
+        "Cytoplasm": "cell_organelle_confusion",
+        "Cell membrane": "cell_organelle_confusion"
+      }
+    },
+    {
+      "id": "S8Q5",
+      "level": 8,
+      "prompt": "What force always acts opposite to the direction of motion between two sliding surfaces?",
+      "options": [
+        "Frictional force",
+        "Gravitational force",
+        "Electrostatic force",
+        "Magnetic force"
+      ],
+      "answer": "Frictional force",
+      "wrongTags": {
+        "Gravitational force": "force_motion_law_error",
+        "Electrostatic force": "force_motion_law_error",
+        "Magnetic force": "force_motion_law_error"
+      }
+    },
+    {
+      "id": "S9Q1",
+      "level": 9,
+      "prompt": "Which subatomic particle carries a negative electric charge?",
+      "options": [
+        "Proton",
+        "Electron",
+        "Neutron",
+        "Nucleus"
+      ],
+      "answer": "Electron",
+      "wrongTags": {
+        "Proton": "atomic_molecular_confusion",
+        "Neutron": "atomic_molecular_confusion",
+        "Nucleus": "atomic_molecular_confusion"
+      }
+    },
+    {
+      "id": "S9Q2",
+      "level": 9,
+      "prompt": "Which plant vascular tissue is responsible for transporting water and dissolved minerals upward from roots?",
+      "options": [
+        "Xylem",
+        "Phloem",
+        "Parenchyma",
+        "Collenchyma"
+      ],
+      "answer": "Xylem",
+      "wrongTags": {
+        "Phloem": "plant_part_function_confusion",
+        "Parenchyma": "plant_part_function_confusion",
+        "Collenchyma": "plant_part_function_confusion"
+      }
+    },
+    {
+      "id": "S9Q3",
+      "level": 9,
+      "prompt": "According to Newton's Second Law of Motion, what is the formula for force?",
+      "options": [
+        "Force = mass / acceleration",
+        "Force = velocity / time",
+        "Force = mass × acceleration",
+        "Force = mass × velocity"
+      ],
+      "answer": "Force = mass × acceleration",
+      "wrongTags": {
+        "Force = mass / acceleration": "force_motion_law_error",
+        "Force = velocity / time": "force_motion_law_error",
+        "Force = mass × velocity": "force_motion_law_error"
+      }
+    },
+    {
+      "id": "S9Q4",
+      "level": 9,
+      "prompt": "What is the molecular mass of water (H2O), given atomic mass H = 1 u and O = 16 u?",
+      "options": [
+        "17 u",
+        "33 u",
+        "16 u",
+        "18 u"
+      ],
+      "answer": "18 u",
+      "wrongTags": {
+        "17 u": "atomic_molecular_confusion",
+        "33 u": "atomic_molecular_confusion",
+        "16 u": "atomic_molecular_confusion"
+      }
+    },
+    {
+      "id": "S9Q5",
+      "level": 9,
+      "prompt": "Which animal tissue contracts to create movement in limbs?",
+      "options": [
+        "Epithelial tissue",
+        "Muscular tissue",
+        "Connective tissue",
+        "Nervous tissue"
+      ],
+      "answer": "Muscular tissue",
+      "wrongTags": {
+        "Epithelial tissue": "organ_system_function_error",
+        "Connective tissue": "organ_system_function_error",
+        "Nervous tissue": "organ_system_function_error"
+      }
+    },
+    {
+      "id": "S10Q1",
+      "level": 10,
+      "prompt": "What happens when an iron nail is kept in blue copper sulfate solution?",
+      "options": [
+        "Iron displaces copper, turning solution pale green",
+        "The solution turns bright yellow",
+        "No chemical reaction occurs",
+        "Copper dissolves iron completely"
+      ],
+      "answer": "Iron displaces copper, turning solution pale green",
+      "wrongTags": {
+        "The solution turns bright yellow": "chemical_vs_physical_change",
+        "No chemical reaction occurs": "chemical_vs_physical_change",
+        "Copper dissolves iron completely": "chemical_vs_physical_change"
+      }
+    },
+    {
+      "id": "S10Q2",
+      "level": 10,
+      "prompt": "According to Ohm's Law (V = IR), if voltage is 12 V and resistance is 4 ohms, what is current?",
+      "options": [
+        "48 A",
+        "8 A",
+        "3 A",
+        "16 A"
+      ],
+      "answer": "3 A",
+      "wrongTags": {
+        "48 A": "circuit_electricity_error",
+        "8 A": "circuit_electricity_error",
+        "16 A": "circuit_electricity_error"
+      }
+    },
+    {
+      "id": "S10Q3",
+      "level": 10,
+      "prompt": "What is the functional excretory filtration unit inside the human kidney?",
+      "options": [
+        "Neuron",
+        "Nephron",
+        "Alveolus",
+        "Villus"
+      ],
+      "answer": "Nephron",
+      "wrongTags": {
+        "Neuron": "organ_system_function_error",
+        "Alveolus": "organ_system_function_error",
+        "Villus": "organ_system_function_error"
+      }
+    },
+    {
+      "id": "S10Q4",
+      "level": 10,
+      "prompt": "What type of chemical reaction is: 2H2 + O2 -> 2H2O?",
+      "options": [
+        "Decomposition reaction",
+        "Displacement reaction",
+        "Double displacement reaction",
+        "Combination reaction"
+      ],
+      "answer": "Combination reaction",
+      "wrongTags": {
+        "Decomposition reaction": "chemical_vs_physical_change",
+        "Displacement reaction": "chemical_vs_physical_change",
+        "Double displacement reaction": "chemical_vs_physical_change"
+      }
+    },
+    {
+      "id": "S10Q5",
+      "level": 10,
+      "prompt": "Which tiny air sacs in human lungs provide extensive surface area for oxygen-carbon dioxide gas exchange?",
+      "options": [
+        "Alveoli",
+        "Nephrons",
+        "Bronchioles only",
+        "Trachea"
+      ],
+      "answer": "Alveoli",
+      "wrongTags": {
+        "Nephrons": "organ_system_function_error",
+        "Bronchioles only": "organ_system_function_error",
+        "Trachea": "organ_system_function_error"
+      }
+    }
+  ]
+}

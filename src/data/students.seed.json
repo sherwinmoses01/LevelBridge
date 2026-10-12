@@ -1,0 +1,7119 @@
+{
+  "meta": {
+    "synthetic": true,
+    "note": "SYNTHETIC DEMO DATA. These are not real students. Starter content for hackathon demonstration.",
+    "students": 48,
+    "assessments": [
+      {
+        "week": 0,
+        "date": "2026-09-28"
+      },
+      {
+        "week": 1,
+        "date": "2026-10-05"
+      },
+      {
+        "week": 2,
+        "date": "2026-10-12"
+      }
+    ],
+    "levelScale": "0 = below Class 1, 1-10 = Class 1 to Class 10 curriculum ladders across Maths, English, and Science"
+  },
+  "students": [
+    {
+      "id": "S01",
+      "grade": 3,
+      "band": "3-5",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 4,
+          "rootGap": 5,
+          "hiddenGap": false,
+          "mistakes": {
+            "add_instead_of_subtract": 3,
+            "added_numerators_and_denominators": 3
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 5,
+          "rootGap": 6,
+          "hiddenGap": false,
+          "mistakes": {
+            "ratio_order_swapped": 1,
+            "place_value_shift": 2
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 5,
+          "rootGap": 6,
+          "hiddenGap": false,
+          "mistakes": {
+            "table_skip_error": 3,
+            "place_value_shift": 3,
+            "ratio_order_swapped": 3
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "add_instead_of_subtract": 3,
+              "added_numerators_and_denominators": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "ratio_order_swapped": 1,
+              "place_value_shift": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "table_skip_error": 3,
+              "place_value_shift": 3,
+              "ratio_order_swapped": 3
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 2,
+            "rootGap": 3,
+            "hiddenGap": false,
+            "mistakes": {
+              "article_error": 3,
+              "literal_interpretation_error": 1,
+              "tense_form_error": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 2,
+              "plural_rule_error": 3,
+              "pronoun_case_error": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 1,
+              "noun_verb_confusion": 3,
+              "pronoun_case_error": 3
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 2,
+            "rootGap": 3,
+            "hiddenGap": false,
+            "mistakes": {
+              "force_motion_law_error": 2,
+              "plant_part_function_confusion": 3,
+              "food_nutrient_group_confusion": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 2,
+            "rootGap": 3,
+            "hiddenGap": false,
+            "mistakes": {
+              "plant_part_function_confusion": 3,
+              "force_motion_law_error": 2,
+              "food_nutrient_group_confusion": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 2,
+            "rootGap": 3,
+            "hiddenGap": false,
+            "mistakes": {
+              "force_motion_law_error": 1,
+              "plant_part_function_confusion": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S02",
+      "grade": 3,
+      "band": "3-5",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 3,
+          "rootGap": 4,
+          "hiddenGap": false,
+          "mistakes": {
+            "table_skip_error": 1,
+            "place_value_shift": 3,
+            "remainder_ignored": 3
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 4,
+          "rootGap": 5,
+          "hiddenGap": false,
+          "mistakes": {
+            "percent_as_decimal_shift": 2,
+            "added_numerators_and_denominators": 1,
+            "add_instead_of_subtract": 3
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 4,
+          "rootGap": 5,
+          "hiddenGap": false,
+          "mistakes": {
+            "percent_as_decimal_shift": 3,
+            "added_numerators_and_denominators": 2,
+            "decimal_place_shift": 2
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "table_skip_error": 1,
+              "place_value_shift": 3,
+              "remainder_ignored": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "percent_as_decimal_shift": 2,
+              "added_numerators_and_denominators": 1,
+              "add_instead_of_subtract": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "percent_as_decimal_shift": 3,
+              "added_numerators_and_denominators": 2,
+              "decimal_place_shift": 2
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 2,
+            "rootGap": 3,
+            "hiddenGap": false,
+            "mistakes": {
+              "tense_form_error": 1,
+              "noun_verb_confusion": 1,
+              "article_error": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 2,
+            "rootGap": 3,
+            "hiddenGap": false,
+            "mistakes": {
+              "noun_verb_confusion": 3,
+              "article_error": 1,
+              "literal_interpretation_error": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 2,
+            "rootGap": 3,
+            "hiddenGap": false,
+            "mistakes": {
+              "article_error": 2,
+              "tense_form_error": 1,
+              "noun_verb_confusion": 1
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 1,
+            "rootGap": 2,
+            "hiddenGap": false,
+            "mistakes": {
+              "states_of_matter_confusion": 2,
+              "force_motion_law_error": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 1,
+            "rootGap": 2,
+            "hiddenGap": false,
+            "mistakes": {
+              "force_motion_law_error": 1,
+              "habitat_adaptation_confusion": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 2,
+            "rootGap": 3,
+            "hiddenGap": false,
+            "mistakes": {
+              "food_nutrient_group_confusion": 3,
+              "plant_part_function_confusion": 1,
+              "force_motion_law_error": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S03",
+      "grade": 3,
+      "band": "3-5",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 2,
+          "rootGap": 3,
+          "hiddenGap": false,
+          "mistakes": {
+            "expanded_form_written_together": 2,
+            "place_value_shift": 2
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 2,
+          "rootGap": 3,
+          "hiddenGap": false,
+          "mistakes": {
+            "added_instead_of_multiplied": 2,
+            "digits_reversed": 2,
+            "expanded_form_written_together": 2
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 2,
+          "rootGap": 3,
+          "hiddenGap": false,
+          "mistakes": {
+            "place_value_shift": 1,
+            "expanded_form_written_together": 2
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 2,
+            "rootGap": 3,
+            "hiddenGap": false,
+            "mistakes": {
+              "expanded_form_written_together": 2,
+              "place_value_shift": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 2,
+            "rootGap": 3,
+            "hiddenGap": false,
+            "mistakes": {
+              "added_instead_of_multiplied": 2,
+              "digits_reversed": 2,
+              "expanded_form_written_together": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 2,
+            "rootGap": 3,
+            "hiddenGap": false,
+            "mistakes": {
+              "place_value_shift": 1,
+              "expanded_form_written_together": 2
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 2,
+            "rootGap": 3,
+            "hiddenGap": false,
+            "mistakes": {
+              "article_error": 1,
+              "literal_interpretation_error": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 2,
+            "rootGap": 3,
+            "hiddenGap": false,
+            "mistakes": {
+              "tense_form_error": 3,
+              "article_error": 3,
+              "literal_interpretation_error": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "noun_verb_confusion": 1,
+              "plural_rule_error": 3,
+              "literal_interpretation_error": 2
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "organ_system_function_error": 1,
+              "circuit_electricity_error": 3,
+              "simple_machine_confusion": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "plant_part_function_confusion": 1,
+              "mixture_separation_error": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "plant_part_function_confusion": 1,
+              "force_motion_law_error": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S04",
+      "grade": 3,
+      "band": "3-5",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 2,
+          "rootGap": 3,
+          "hiddenGap": false,
+          "mistakes": {
+            "place_value_shift": 2,
+            "digits_reversed": 2
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 2,
+          "rootGap": 3,
+          "hiddenGap": false,
+          "mistakes": {
+            "place_value_shift": 3,
+            "digits_reversed": 2,
+            "added_instead_of_multiplied": 1
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 2,
+          "rootGap": 3,
+          "hiddenGap": false,
+          "mistakes": {
+            "expanded_form_written_together": 1,
+            "table_skip_error": 3,
+            "place_value_shift": 2
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 2,
+            "rootGap": 3,
+            "hiddenGap": false,
+            "mistakes": {
+              "place_value_shift": 2,
+              "digits_reversed": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 2,
+            "rootGap": 3,
+            "hiddenGap": false,
+            "mistakes": {
+              "place_value_shift": 3,
+              "digits_reversed": 2,
+              "added_instead_of_multiplied": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 2,
+            "rootGap": 3,
+            "hiddenGap": false,
+            "mistakes": {
+              "expanded_form_written_together": 1,
+              "table_skip_error": 3,
+              "place_value_shift": 2
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "noun_verb_confusion": 2,
+              "literal_interpretation_error": 2,
+              "pronoun_case_error": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 1,
+              "pronoun_case_error": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "noun_verb_confusion": 1,
+              "pronoun_case_error": 2,
+              "plural_rule_error": 3
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 2,
+            "rootGap": 3,
+            "hiddenGap": false,
+            "mistakes": {
+              "plant_part_function_confusion": 3,
+              "force_motion_law_error": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "states_of_matter_confusion": 1,
+              "habitat_adaptation_confusion": 2,
+              "organ_system_function_error": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "organ_system_function_error": 2,
+              "states_of_matter_confusion": 2,
+              "habitat_adaptation_confusion": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S05",
+      "grade": 3,
+      "band": "3-5",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 3,
+          "rootGap": 4,
+          "hiddenGap": false,
+          "mistakes": {
+            "division_by_wrong_step": 3,
+            "place_value_shift": 2,
+            "remainder_ignored": 3
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 3,
+          "rootGap": 4,
+          "hiddenGap": false,
+          "mistakes": {
+            "table_skip_error": 1,
+            "place_value_shift": 1,
+            "division_by_wrong_step": 2
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 4,
+          "rootGap": 5,
+          "hiddenGap": false,
+          "mistakes": {
+            "add_instead_of_subtract": 2,
+            "percent_as_decimal_shift": 1
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "division_by_wrong_step": 3,
+              "place_value_shift": 2,
+              "remainder_ignored": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "table_skip_error": 1,
+              "place_value_shift": 1,
+              "division_by_wrong_step": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "add_instead_of_subtract": 2,
+              "percent_as_decimal_shift": 1
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 2,
+            "rootGap": 3,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 2,
+              "tense_form_error": 2,
+              "noun_verb_confusion": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "plural_rule_error": 2,
+              "noun_verb_confusion": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "plural_rule_error": 1,
+              "pronoun_case_error": 1,
+              "literal_interpretation_error": 3
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "habitat_adaptation_confusion": 2,
+              "states_of_matter_confusion": 1,
+              "organ_system_function_error": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "states_of_matter_confusion": 1,
+              "habitat_adaptation_confusion": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "states_of_matter_confusion": 3,
+              "habitat_adaptation_confusion": 1,
+              "organ_system_function_error": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S06",
+      "grade": 3,
+      "band": "3-5",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 2,
+          "rootGap": 3,
+          "hiddenGap": false,
+          "mistakes": {
+            "table_skip_error": 2,
+            "expanded_form_written_together": 2,
+            "digits_reversed": 1
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 2,
+          "rootGap": 3,
+          "hiddenGap": false,
+          "mistakes": {
+            "place_value_shift": 2,
+            "added_instead_of_multiplied": 2
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 2,
+          "rootGap": 3,
+          "hiddenGap": false,
+          "mistakes": {
+            "expanded_form_written_together": 1,
+            "digits_reversed": 3
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 2,
+            "rootGap": 3,
+            "hiddenGap": false,
+            "mistakes": {
+              "table_skip_error": 2,
+              "expanded_form_written_together": 2,
+              "digits_reversed": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 2,
+            "rootGap": 3,
+            "hiddenGap": false,
+            "mistakes": {
+              "place_value_shift": 2,
+              "added_instead_of_multiplied": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 2,
+            "rootGap": 3,
+            "hiddenGap": false,
+            "mistakes": {
+              "expanded_form_written_together": 1,
+              "digits_reversed": 3
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "plural_rule_error": 2,
+              "noun_verb_confusion": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 2,
+              "pronoun_case_error": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "preposition_choice_error": 3,
+              "tense_form_error": 1,
+              "synonym_antonym_reversal": 1
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "circuit_electricity_error": 3,
+              "organ_system_function_error": 1,
+              "simple_machine_confusion": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "force_motion_law_error": 1,
+              "mixture_separation_error": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "force_motion_law_error": 3,
+              "plant_part_function_confusion": 1,
+              "mixture_separation_error": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S07",
+      "grade": 4,
+      "band": "3-5",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 4,
+          "rootGap": 1,
+          "hiddenGap": true,
+          "mistakes": {
+            "count_offset": 3,
+            "place_value_shift": 3
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 4,
+          "rootGap": 1,
+          "hiddenGap": true,
+          "mistakes": {
+            "expanded_form_written_together": 2,
+            "place_value_shift": 3
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 4,
+          "rootGap": 1,
+          "hiddenGap": true,
+          "mistakes": {
+            "digits_reversed": 3,
+            "place_value_shift": 2
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 4,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "count_offset": 3,
+              "place_value_shift": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 4,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "expanded_form_written_together": 2,
+              "place_value_shift": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 4,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "digits_reversed": 3,
+              "place_value_shift": 2
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 4,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "letter_sound_confusion": 1,
+              "noun_verb_confusion": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 4,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "noun_verb_confusion": 3,
+              "letter_sound_confusion": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "letter_sound_confusion": 1,
+              "noun_verb_confusion": 1
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 5,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "body_part_function_error": 1,
+              "living_characteristic_error": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 5,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "living_characteristic_error": 1,
+              "body_part_function_error": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "living_characteristic_error": 1,
+              "body_part_function_error": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S08",
+      "grade": 4,
+      "band": "3-5",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 4,
+          "rootGap": 5,
+          "hiddenGap": false,
+          "mistakes": {
+            "decimal_place_shift": 1,
+            "add_instead_of_subtract": 1,
+            "added_numerators_and_denominators": 1
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 4,
+          "rootGap": 5,
+          "hiddenGap": false,
+          "mistakes": {
+            "add_instead_of_subtract": 2,
+            "decimal_place_shift": 2
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 4,
+          "rootGap": 5,
+          "hiddenGap": false,
+          "mistakes": {
+            "add_instead_of_subtract": 2,
+            "percent_as_decimal_shift": 1
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "decimal_place_shift": 1,
+              "add_instead_of_subtract": 1,
+              "added_numerators_and_denominators": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "add_instead_of_subtract": 2,
+              "decimal_place_shift": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "add_instead_of_subtract": 2,
+              "percent_as_decimal_shift": 1
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "preposition_choice_error": 2,
+              "tense_form_error": 1,
+              "synonym_antonym_reversal": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 2,
+              "article_error": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "article_error": 3,
+              "subject_verb_agreement": 3
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "mixture_separation_error": 2,
+              "plant_part_function_confusion": 3,
+              "force_motion_law_error": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "mixture_separation_error": 2,
+              "plant_part_function_confusion": 2,
+              "force_motion_law_error": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "mixture_separation_error": 3,
+              "force_motion_law_error": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S09",
+      "grade": 4,
+      "band": "3-5",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 4,
+          "rootGap": 5,
+          "hiddenGap": false,
+          "mistakes": {
+            "add_instead_of_subtract": 2,
+            "percent_as_decimal_shift": 3,
+            "place_value_shift": 1
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 4,
+          "rootGap": 5,
+          "hiddenGap": false,
+          "mistakes": {
+            "decimal_place_shift": 3,
+            "place_value_shift": 2,
+            "add_instead_of_subtract": 3
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 4,
+          "rootGap": 5,
+          "hiddenGap": false,
+          "mistakes": {
+            "added_numerators_and_denominators": 2,
+            "decimal_place_shift": 1,
+            "add_instead_of_subtract": 1
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "add_instead_of_subtract": 2,
+              "percent_as_decimal_shift": 3,
+              "place_value_shift": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "decimal_place_shift": 3,
+              "place_value_shift": 2,
+              "add_instead_of_subtract": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "added_numerators_and_denominators": 2,
+              "decimal_place_shift": 1,
+              "add_instead_of_subtract": 1
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "subject_verb_agreement": 3,
+              "article_error": 3,
+              "literal_interpretation_error": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "subject_verb_agreement": 1,
+              "literal_interpretation_error": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "subject_verb_agreement": 2,
+              "literal_interpretation_error": 1,
+              "article_error": 1
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "circuit_electricity_error": 1,
+              "simple_machine_confusion": 3,
+              "organ_system_function_error": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "plant_part_function_confusion": 1,
+              "force_motion_law_error": 1,
+              "mixture_separation_error": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "force_motion_law_error": 1,
+              "plant_part_function_confusion": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S10",
+      "grade": 4,
+      "band": "3-5",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 4,
+          "rootGap": 5,
+          "hiddenGap": false,
+          "mistakes": {
+            "place_value_shift": 3,
+            "percent_as_decimal_shift": 3
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 4,
+          "rootGap": 5,
+          "hiddenGap": false,
+          "mistakes": {
+            "add_instead_of_subtract": 2,
+            "percent_as_decimal_shift": 2
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 5,
+          "rootGap": 6,
+          "hiddenGap": false,
+          "mistakes": {
+            "sign_error": 3,
+            "place_value_shift": 3
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "place_value_shift": 3,
+              "percent_as_decimal_shift": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "add_instead_of_subtract": 2,
+              "percent_as_decimal_shift": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "sign_error": 3,
+              "place_value_shift": 3
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "pronoun_case_error": 1,
+              "plural_rule_error": 1,
+              "literal_interpretation_error": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "plural_rule_error": 3,
+              "pronoun_case_error": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "noun_verb_confusion": 2,
+              "literal_interpretation_error": 2,
+              "plural_rule_error": 1
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "states_of_matter_confusion": 3,
+              "organ_system_function_error": 2,
+              "habitat_adaptation_confusion": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "organ_system_function_error": 2,
+              "states_of_matter_confusion": 3,
+              "habitat_adaptation_confusion": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "states_of_matter_confusion": 1,
+              "organ_system_function_error": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S11",
+      "grade": 4,
+      "band": "3-5",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 4,
+          "rootGap": 5,
+          "hiddenGap": false,
+          "mistakes": {
+            "added_numerators_and_denominators": 2,
+            "place_value_shift": 2
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 5,
+          "rootGap": 6,
+          "hiddenGap": false,
+          "mistakes": {
+            "division_by_wrong_step": 3,
+            "place_value_shift": 1
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 5,
+          "rootGap": 6,
+          "hiddenGap": false,
+          "mistakes": {
+            "place_value_shift": 3,
+            "division_by_wrong_step": 1
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "added_numerators_and_denominators": 2,
+              "place_value_shift": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "division_by_wrong_step": 3,
+              "place_value_shift": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "place_value_shift": 3,
+              "division_by_wrong_step": 1
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "synonym_antonym_reversal": 2,
+              "literal_interpretation_error": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 1,
+              "subject_verb_agreement": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 3,
+              "subject_verb_agreement": 1,
+              "article_error": 3
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "organ_system_function_error": 2,
+              "habitat_adaptation_confusion": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "organ_system_function_error": 3,
+              "circuit_electricity_error": 1,
+              "simple_machine_confusion": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "organ_system_function_error": 1,
+              "simple_machine_confusion": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S12",
+      "grade": 4,
+      "band": "3-5",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 3,
+          "rootGap": 4,
+          "hiddenGap": false,
+          "mistakes": {
+            "table_skip_error": 2,
+            "remainder_ignored": 3
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 3,
+          "rootGap": 4,
+          "hiddenGap": false,
+          "mistakes": {
+            "table_skip_error": 3,
+            "division_by_wrong_step": 2
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 4,
+          "rootGap": 5,
+          "hiddenGap": false,
+          "mistakes": {
+            "decimal_place_shift": 1,
+            "add_instead_of_subtract": 2,
+            "percent_as_decimal_shift": 2
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "table_skip_error": 2,
+              "remainder_ignored": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "table_skip_error": 3,
+              "division_by_wrong_step": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "decimal_place_shift": 1,
+              "add_instead_of_subtract": 2,
+              "percent_as_decimal_shift": 2
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 3,
+              "preposition_choice_error": 1,
+              "synonym_antonym_reversal": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "article_error": 3,
+              "literal_interpretation_error": 2,
+              "subject_verb_agreement": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 1,
+              "article_error": 3,
+              "subject_verb_agreement": 3
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 2,
+            "rootGap": 3,
+            "hiddenGap": false,
+            "mistakes": {
+              "force_motion_law_error": 3,
+              "food_nutrient_group_confusion": 3,
+              "plant_part_function_confusion": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 2,
+            "rootGap": 3,
+            "hiddenGap": false,
+            "mistakes": {
+              "plant_part_function_confusion": 3,
+              "food_nutrient_group_confusion": 1,
+              "force_motion_law_error": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 2,
+            "rootGap": 3,
+            "hiddenGap": false,
+            "mistakes": {
+              "plant_part_function_confusion": 3,
+              "food_nutrient_group_confusion": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S13",
+      "grade": 5,
+      "band": "3-5",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 4,
+          "rootGap": 5,
+          "hiddenGap": false,
+          "mistakes": {
+            "add_instead_of_subtract": 2,
+            "place_value_shift": 1,
+            "added_numerators_and_denominators": 2
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 5,
+          "rootGap": 6,
+          "hiddenGap": false,
+          "mistakes": {
+            "division_by_wrong_step": 2,
+            "ratio_order_swapped": 1
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 5,
+          "rootGap": 6,
+          "hiddenGap": false,
+          "mistakes": {
+            "ratio_order_swapped": 2,
+            "sign_error": 1,
+            "table_skip_error": 3
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "add_instead_of_subtract": 2,
+              "place_value_shift": 1,
+              "added_numerators_and_denominators": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "division_by_wrong_step": 2,
+              "ratio_order_swapped": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "ratio_order_swapped": 2,
+              "sign_error": 1,
+              "table_skip_error": 3
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "article_error": 3,
+              "subject_verb_agreement": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 1,
+              "passive_voice_confusion": 2,
+              "conjunction_logic_error": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 2,
+              "passive_voice_confusion": 2
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "respiration_photosynthesis_reversal": 3,
+              "acids_bases_indicators": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "acids_bases_indicators": 1,
+              "respiration_photosynthesis_reversal": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "heat_transfer_mode_confusion": 1,
+              "acids_bases_indicators": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S14",
+      "grade": 5,
+      "band": "3-5",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 5,
+          "rootGap": 2,
+          "hiddenGap": true,
+          "mistakes": {
+            "subtracted_smaller_from_larger_digit": 3,
+            "borrowing_tens_not_reduced": 2,
+            "added_instead_of_multiplied": 2
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 5,
+          "rootGap": 2,
+          "hiddenGap": true,
+          "mistakes": {
+            "table_skip_error": 3,
+            "add_instead_of_subtract": 2,
+            "place_value_shift": 2
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 5,
+          "rootGap": 2,
+          "hiddenGap": true,
+          "mistakes": {
+            "count_offset": 2,
+            "subtracted_smaller_from_larger_digit": 2,
+            "added_instead_of_multiplied": 3
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 5,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "subtracted_smaller_from_larger_digit": 3,
+              "borrowing_tens_not_reduced": 2,
+              "added_instead_of_multiplied": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 5,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "table_skip_error": 3,
+              "add_instead_of_subtract": 2,
+              "place_value_shift": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "count_offset": 2,
+              "subtracted_smaller_from_larger_digit": 2,
+              "added_instead_of_multiplied": 3
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 4,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "noun_verb_confusion": 1,
+              "punctuation_comma_splice": 2,
+              "plural_rule_error": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 4,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "noun_verb_confusion": 2,
+              "plural_rule_error": 3,
+              "punctuation_comma_splice": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "article_error": 1,
+              "plural_rule_error": 3,
+              "subject_verb_agreement": 3
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 4,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "living_characteristic_error": 3,
+              "force_motion_law_error": 3,
+              "states_of_matter_confusion": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 4,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "states_of_matter_confusion": 2,
+              "habitat_adaptation_confusion": 1,
+              "living_characteristic_error": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "habitat_adaptation_confusion": 3,
+              "force_motion_law_error": 3,
+              "herbivore_carnivore_omnivore": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S15",
+      "grade": 5,
+      "band": "3-5",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 4,
+          "rootGap": 5,
+          "hiddenGap": false,
+          "mistakes": {
+            "added_numerators_and_denominators": 1,
+            "add_instead_of_subtract": 1,
+            "place_value_shift": 1
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 4,
+          "rootGap": 5,
+          "hiddenGap": false,
+          "mistakes": {
+            "percent_as_decimal_shift": 2,
+            "place_value_shift": 1,
+            "add_instead_of_subtract": 3
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 4,
+          "rootGap": 5,
+          "hiddenGap": false,
+          "mistakes": {
+            "decimal_place_shift": 1,
+            "added_numerators_and_denominators": 1
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "added_numerators_and_denominators": 1,
+              "add_instead_of_subtract": 1,
+              "place_value_shift": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "percent_as_decimal_shift": 2,
+              "place_value_shift": 1,
+              "add_instead_of_subtract": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "decimal_place_shift": 1,
+              "added_numerators_and_denominators": 1
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "article_error": 3,
+              "subject_verb_agreement": 2,
+              "literal_interpretation_error": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "subject_verb_agreement": 3,
+              "literal_interpretation_error": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "article_error": 3,
+              "literal_interpretation_error": 3,
+              "subject_verb_agreement": 1
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "simple_machine_confusion": 3,
+              "circuit_electricity_error": 3,
+              "organ_system_function_error": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "organ_system_function_error": 3,
+              "circuit_electricity_error": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "simple_machine_confusion": 1,
+              "organ_system_function_error": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S16",
+      "grade": 5,
+      "band": "3-5",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 5,
+          "rootGap": 6,
+          "hiddenGap": false,
+          "mistakes": {
+            "table_skip_error": 2,
+            "percent_as_decimal_shift": 2
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 5,
+          "rootGap": 6,
+          "hiddenGap": false,
+          "mistakes": {
+            "table_skip_error": 1,
+            "place_value_shift": 3
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 5,
+          "rootGap": 6,
+          "hiddenGap": false,
+          "mistakes": {
+            "place_value_shift": 1,
+            "percent_as_decimal_shift": 2,
+            "division_by_wrong_step": 3
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "table_skip_error": 2,
+              "percent_as_decimal_shift": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "table_skip_error": 1,
+              "place_value_shift": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "place_value_shift": 1,
+              "percent_as_decimal_shift": 2,
+              "division_by_wrong_step": 3
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 1,
+              "subject_verb_agreement": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "passive_voice_confusion": 3,
+              "conjunction_logic_error": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "conjunction_logic_error": 3,
+              "literal_interpretation_error": 1
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "mixture_separation_error": 1,
+              "force_motion_law_error": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "heat_transfer_mode_confusion": 2,
+              "respiration_photosynthesis_reversal": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "respiration_photosynthesis_reversal": 2,
+              "heat_transfer_mode_confusion": 1,
+              "acids_bases_indicators": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S17",
+      "grade": 5,
+      "band": "3-5",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 5,
+          "rootGap": 6,
+          "hiddenGap": false,
+          "mistakes": {
+            "sign_error": 1,
+            "division_by_wrong_step": 2
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 5,
+          "rootGap": 6,
+          "hiddenGap": false,
+          "mistakes": {
+            "sign_error": 1,
+            "place_value_shift": 3
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 5,
+          "rootGap": 6,
+          "hiddenGap": false,
+          "mistakes": {
+            "table_skip_error": 3,
+            "place_value_shift": 1,
+            "division_by_wrong_step": 3
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "sign_error": 1,
+              "division_by_wrong_step": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "sign_error": 1,
+              "place_value_shift": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "table_skip_error": 3,
+              "place_value_shift": 1,
+              "division_by_wrong_step": 3
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "synonym_antonym_reversal": 1,
+              "tense_form_error": 3,
+              "literal_interpretation_error": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 1,
+              "tense_form_error": 1,
+              "synonym_antonym_reversal": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 2,
+              "article_error": 3,
+              "subject_verb_agreement": 1
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "circuit_electricity_error": 2,
+              "organ_system_function_error": 3,
+              "simple_machine_confusion": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "simple_machine_confusion": 3,
+              "circuit_electricity_error": 2,
+              "organ_system_function_error": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "simple_machine_confusion": 1,
+              "circuit_electricity_error": 3,
+              "organ_system_function_error": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S18",
+      "grade": 5,
+      "band": "3-5",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 3,
+          "rootGap": 4,
+          "hiddenGap": false,
+          "mistakes": {
+            "place_value_shift": 2,
+            "table_skip_error": 1,
+            "remainder_ignored": 3
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 4,
+          "rootGap": 5,
+          "hiddenGap": false,
+          "mistakes": {
+            "percent_as_decimal_shift": 2,
+            "decimal_place_shift": 2,
+            "place_value_shift": 1
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 4,
+          "rootGap": 5,
+          "hiddenGap": false,
+          "mistakes": {
+            "added_numerators_and_denominators": 2,
+            "place_value_shift": 3
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 3,
+            "rootGap": 4,
+            "hiddenGap": false,
+            "mistakes": {
+              "place_value_shift": 2,
+              "table_skip_error": 1,
+              "remainder_ignored": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "percent_as_decimal_shift": 2,
+              "decimal_place_shift": 2,
+              "place_value_shift": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "added_numerators_and_denominators": 2,
+              "place_value_shift": 3
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "tense_form_error": 1,
+              "preposition_choice_error": 3,
+              "literal_interpretation_error": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "synonym_antonym_reversal": 1,
+              "tense_form_error": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "tense_form_error": 1,
+              "synonym_antonym_reversal": 3,
+              "preposition_choice_error": 2
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "plant_part_function_confusion": 1,
+              "mixture_separation_error": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "mixture_separation_error": 1,
+              "force_motion_law_error": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "plant_part_function_confusion": 1,
+              "mixture_separation_error": 3,
+              "force_motion_law_error": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S19",
+      "grade": 6,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 6,
+          "rootGap": 7,
+          "hiddenGap": false,
+          "mistakes": {
+            "division_by_wrong_step": 1,
+            "count_offset": 2
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 6,
+          "rootGap": 7,
+          "hiddenGap": false,
+          "mistakes": {
+            "table_skip_error": 1,
+            "percent_as_decimal_shift": 2,
+            "division_by_wrong_step": 3
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 6,
+          "rootGap": 7,
+          "hiddenGap": false,
+          "mistakes": {
+            "percent_as_decimal_shift": 3,
+            "count_offset": 1
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "division_by_wrong_step": 1,
+              "count_offset": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "table_skip_error": 1,
+              "percent_as_decimal_shift": 2,
+              "division_by_wrong_step": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "percent_as_decimal_shift": 3,
+              "count_offset": 1
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 4,
+            "rootGap": 5,
+            "hiddenGap": false,
+            "mistakes": {
+              "tense_form_error": 2,
+              "preposition_choice_error": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "subject_verb_agreement": 3,
+              "literal_interpretation_error": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 2,
+              "article_error": 1,
+              "subject_verb_agreement": 2
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "acids_bases_indicators": 2,
+              "heat_transfer_mode_confusion": 2,
+              "respiration_photosynthesis_reversal": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "cell_organelle_confusion": 1,
+              "chemical_vs_physical_change": 3,
+              "force_motion_law_error": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "chemical_vs_physical_change": 2,
+              "cell_organelle_confusion": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S20",
+      "grade": 6,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 6,
+          "rootGap": 7,
+          "hiddenGap": false,
+          "mistakes": {
+            "add_instead_of_subtract": 3,
+            "count_offset": 1,
+            "table_skip_error": 1
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 7,
+          "rootGap": 8,
+          "hiddenGap": false,
+          "mistakes": {
+            "add_instead_of_subtract": 2,
+            "count_offset": 3,
+            "combined_unlike_terms": 1
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 7,
+          "rootGap": 8,
+          "hiddenGap": false,
+          "mistakes": {
+            "combined_unlike_terms": 1,
+            "add_instead_of_subtract": 1,
+            "expanded_form_written_together": 2
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "add_instead_of_subtract": 3,
+              "count_offset": 1,
+              "table_skip_error": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "add_instead_of_subtract": 2,
+              "count_offset": 3,
+              "combined_unlike_terms": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "combined_unlike_terms": 1,
+              "add_instead_of_subtract": 1,
+              "expanded_form_written_together": 2
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "article_error": 2,
+              "literal_interpretation_error": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "conjunction_logic_error": 1,
+              "passive_voice_confusion": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 3,
+              "conjunction_logic_error": 2,
+              "passive_voice_confusion": 2
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "heat_transfer_mode_confusion": 3,
+              "acids_bases_indicators": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "respiration_photosynthesis_reversal": 1,
+              "acids_bases_indicators": 2,
+              "heat_transfer_mode_confusion": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "acids_bases_indicators": 2,
+              "heat_transfer_mode_confusion": 1,
+              "respiration_photosynthesis_reversal": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S21",
+      "grade": 6,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 6,
+          "rootGap": 1,
+          "hiddenGap": true,
+          "mistakes": {
+            "count_offset": 1,
+            "place_value_shift": 3
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 7,
+          "rootGap": 1,
+          "hiddenGap": true,
+          "mistakes": {
+            "count_offset": 2,
+            "expanded_form_written_together": 3
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 7,
+          "rootGap": 1,
+          "hiddenGap": true,
+          "mistakes": {
+            "count_offset": 1,
+            "digits_reversed": 1
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 6,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "count_offset": 1,
+              "place_value_shift": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 7,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "count_offset": 2,
+              "expanded_form_written_together": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 7,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "count_offset": 1,
+              "digits_reversed": 1
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 4,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "noun_verb_confusion": 1,
+              "letter_sound_confusion": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 4,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "letter_sound_confusion": 2,
+              "noun_verb_confusion": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "noun_verb_confusion": 1,
+              "letter_sound_confusion": 1
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 5,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "body_part_function_error": 3,
+              "living_characteristic_error": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 5,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "living_characteristic_error": 3,
+              "body_part_function_error": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "living_characteristic_error": 1,
+              "body_part_function_error": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S22",
+      "grade": 6,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 6,
+          "rootGap": 7,
+          "hiddenGap": false,
+          "mistakes": {
+            "add_instead_of_subtract": 2,
+            "table_skip_error": 2,
+            "percent_as_decimal_shift": 3
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 7,
+          "rootGap": 8,
+          "hiddenGap": false,
+          "mistakes": {
+            "division_by_wrong_step": 1,
+            "pythagoras_added_not_squared": 2,
+            "added_instead_of_multiplied": 3
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 7,
+          "rootGap": 8,
+          "hiddenGap": false,
+          "mistakes": {
+            "sign_error": 1,
+            "division_by_wrong_step": 1,
+            "table_skip_error": 2
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "add_instead_of_subtract": 2,
+              "table_skip_error": 2,
+              "percent_as_decimal_shift": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "division_by_wrong_step": 1,
+              "pythagoras_added_not_squared": 2,
+              "added_instead_of_multiplied": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "sign_error": 1,
+              "division_by_wrong_step": 1,
+              "table_skip_error": 2
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "conjunction_logic_error": 2,
+              "literal_interpretation_error": 2,
+              "passive_voice_confusion": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "clause_boundary_error": 3,
+              "reported_speech_shift": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "reported_speech_shift": 3,
+              "clause_boundary_error": 3,
+              "contextual_vocabulary_error": 1
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "mixture_separation_error": 1,
+              "force_motion_law_error": 1,
+              "plant_part_function_confusion": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "force_motion_law_error": 2,
+              "plant_part_function_confusion": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "force_motion_law_error": 2,
+              "plant_part_function_confusion": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S23",
+      "grade": 6,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 7,
+          "rootGap": 8,
+          "hiddenGap": false,
+          "mistakes": {
+            "sign_error": 3,
+            "added_instead_of_multiplied": 3,
+            "combined_unlike_terms": 3
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 7,
+          "rootGap": 8,
+          "hiddenGap": false,
+          "mistakes": {
+            "table_skip_error": 2,
+            "added_instead_of_multiplied": 1
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 8,
+          "rootGap": 9,
+          "hiddenGap": false,
+          "mistakes": {
+            "only_one_side": 1,
+            "slope_formula_inverted": 1,
+            "table_skip_error": 3
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "sign_error": 3,
+              "added_instead_of_multiplied": 3,
+              "combined_unlike_terms": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "table_skip_error": 2,
+              "added_instead_of_multiplied": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "only_one_side": 1,
+              "slope_formula_inverted": 1,
+              "table_skip_error": 3
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "passive_voice_confusion": 3,
+              "conjunction_logic_error": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "conjunction_logic_error": 2,
+              "passive_voice_confusion": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 2,
+              "passive_voice_confusion": 2,
+              "conjunction_logic_error": 1
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "plant_part_function_confusion": 1,
+              "mixture_separation_error": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "acids_bases_indicators": 2,
+              "respiration_photosynthesis_reversal": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "heat_transfer_mode_confusion": 3,
+              "respiration_photosynthesis_reversal": 2,
+              "acids_bases_indicators": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S24",
+      "grade": 6,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 7,
+          "rootGap": 8,
+          "hiddenGap": false,
+          "mistakes": {
+            "pythagoras_added_not_squared": 1,
+            "only_one_side": 3,
+            "division_by_wrong_step": 3
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 8,
+          "rootGap": 9,
+          "hiddenGap": false,
+          "mistakes": {
+            "place_value_shift": 1,
+            "only_one_side": 2
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 8,
+          "rootGap": 9,
+          "hiddenGap": false,
+          "mistakes": {
+            "sign_error": 2,
+            "count_offset": 1
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "pythagoras_added_not_squared": 1,
+              "only_one_side": 3,
+              "division_by_wrong_step": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "place_value_shift": 1,
+              "only_one_side": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "sign_error": 2,
+              "count_offset": 1
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "article_error": 3,
+              "literal_interpretation_error": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "passive_voice_confusion": 2,
+              "literal_interpretation_error": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "passive_voice_confusion": 2,
+              "conjunction_logic_error": 2,
+              "literal_interpretation_error": 2
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "force_motion_law_error": 3,
+              "plant_part_function_confusion": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "plant_part_function_confusion": 3,
+              "force_motion_law_error": 1,
+              "mixture_separation_error": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 6,
+            "hiddenGap": false,
+            "mistakes": {
+              "plant_part_function_confusion": 3,
+              "force_motion_law_error": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S25",
+      "grade": 7,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 5,
+          "rootGap": 1,
+          "hiddenGap": true,
+          "mistakes": {
+            "digits_reversed": 2,
+            "expanded_form_written_together": 3,
+            "count_offset": 2
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 5,
+          "rootGap": 1,
+          "hiddenGap": true,
+          "mistakes": {
+            "expanded_form_written_together": 3,
+            "count_offset": 3,
+            "place_value_shift": 3
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 6,
+          "rootGap": 1,
+          "hiddenGap": true,
+          "mistakes": {
+            "place_value_shift": 3,
+            "expanded_form_written_together": 3,
+            "count_offset": 2
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 5,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "digits_reversed": 2,
+              "expanded_form_written_together": 3,
+              "count_offset": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 5,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "expanded_form_written_together": 3,
+              "count_offset": 3,
+              "place_value_shift": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 6,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "place_value_shift": 3,
+              "expanded_form_written_together": 3,
+              "count_offset": 2
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 7,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "noun_verb_confusion": 3,
+              "letter_sound_confusion": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 8,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "noun_verb_confusion": 3,
+              "letter_sound_confusion": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 8,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "letter_sound_confusion": 1,
+              "noun_verb_confusion": 3
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 7,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "living_characteristic_error": 1,
+              "body_part_function_error": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 8,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "living_characteristic_error": 3,
+              "body_part_function_error": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 8,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "living_characteristic_error": 1,
+              "body_part_function_error": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S26",
+      "grade": 7,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 8,
+          "rootGap": 9,
+          "hiddenGap": false,
+          "mistakes": {
+            "only_one_side": 1,
+            "table_skip_error": 3,
+            "sign_error": 3
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 9,
+          "rootGap": 10,
+          "hiddenGap": false,
+          "mistakes": {
+            "table_skip_error": 2,
+            "division_by_wrong_step": 2
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 9,
+          "rootGap": 10,
+          "hiddenGap": false,
+          "mistakes": {
+            "table_skip_error": 1,
+            "pythagoras_added_not_squared": 2
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "only_one_side": 1,
+              "table_skip_error": 3,
+              "sign_error": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "table_skip_error": 2,
+              "division_by_wrong_step": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "table_skip_error": 1,
+              "pythagoras_added_not_squared": 2
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "clause_boundary_error": 2,
+              "contextual_vocabulary_error": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "punctuation_comma_splice": 1,
+              "clause_boundary_error": 1,
+              "literal_interpretation_error": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "punctuation_comma_splice": 2,
+              "literal_interpretation_error": 3,
+              "clause_boundary_error": 2
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "heat_transfer_mode_confusion": 1,
+              "acids_bases_indicators": 2,
+              "respiration_photosynthesis_reversal": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "respiration_photosynthesis_reversal": 2,
+              "heat_transfer_mode_confusion": 1,
+              "acids_bases_indicators": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "respiration_photosynthesis_reversal": 1,
+              "heat_transfer_mode_confusion": 2,
+              "acids_bases_indicators": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S27",
+      "grade": 7,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 7,
+          "rootGap": 8,
+          "hiddenGap": false,
+          "mistakes": {
+            "count_offset": 1,
+            "table_skip_error": 3
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 8,
+          "rootGap": 9,
+          "hiddenGap": false,
+          "mistakes": {
+            "table_skip_error": 3,
+            "place_value_shift": 2
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 8,
+          "rootGap": 9,
+          "hiddenGap": false,
+          "mistakes": {
+            "table_skip_error": 1,
+            "sign_error": 2
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "count_offset": 1,
+              "table_skip_error": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "table_skip_error": 3,
+              "place_value_shift": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "table_skip_error": 1,
+              "sign_error": 2
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "clause_boundary_error": 2,
+              "contextual_vocabulary_error": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "reported_speech_shift": 1,
+              "clause_boundary_error": 3,
+              "contextual_vocabulary_error": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "clause_boundary_error": 3,
+              "reported_speech_shift": 1
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "chemical_vs_physical_change": 2,
+              "cell_organelle_confusion": 2,
+              "force_motion_law_error": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "atomic_molecular_confusion": 2,
+              "force_motion_law_error": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "atomic_molecular_confusion": 2,
+              "plant_part_function_confusion": 2,
+              "organ_system_function_error": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S28",
+      "grade": 7,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 7,
+          "rootGap": 2,
+          "hiddenGap": true,
+          "mistakes": {
+            "count_offset": 2,
+            "subtracted_smaller_from_larger_digit": 2
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 8,
+          "rootGap": 2,
+          "hiddenGap": true,
+          "mistakes": {
+            "table_skip_error": 2,
+            "added_instead_of_multiplied": 2
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 8,
+          "rootGap": 2,
+          "hiddenGap": true,
+          "mistakes": {
+            "place_value_shift": 3,
+            "added_instead_of_multiplied": 3
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 7,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "count_offset": 2,
+              "subtracted_smaller_from_larger_digit": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 8,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "table_skip_error": 2,
+              "added_instead_of_multiplied": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 8,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "place_value_shift": 3,
+              "added_instead_of_multiplied": 3
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 7,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "plural_rule_error": 3,
+              "noun_verb_confusion": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 8,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "plural_rule_error": 2,
+              "article_error": 1,
+              "tense_form_error": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 8,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "subject_verb_agreement": 1,
+              "plural_rule_error": 3,
+              "article_error": 1
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 7,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "force_motion_law_error": 3,
+              "habitat_adaptation_confusion": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 7,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "habitat_adaptation_confusion": 1,
+              "living_characteristic_error": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 7,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "living_characteristic_error": 3,
+              "states_of_matter_confusion": 2,
+              "force_motion_law_error": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S29",
+      "grade": 7,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 7,
+          "rootGap": 8,
+          "hiddenGap": false,
+          "mistakes": {
+            "table_skip_error": 3,
+            "pythagoras_added_not_squared": 2
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 7,
+          "rootGap": 8,
+          "hiddenGap": false,
+          "mistakes": {
+            "count_offset": 3,
+            "add_instead_of_subtract": 2,
+            "division_by_wrong_step": 2
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 8,
+          "rootGap": 9,
+          "hiddenGap": false,
+          "mistakes": {
+            "only_one_side": 1,
+            "count_offset": 1
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "table_skip_error": 3,
+              "pythagoras_added_not_squared": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "count_offset": 3,
+              "add_instead_of_subtract": 2,
+              "division_by_wrong_step": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "only_one_side": 1,
+              "count_offset": 1
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "contextual_vocabulary_error": 2,
+              "reported_speech_shift": 3,
+              "clause_boundary_error": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 1,
+              "punctuation_comma_splice": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "punctuation_comma_splice": 1,
+              "literal_interpretation_error": 2,
+              "clause_boundary_error": 2
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "plant_part_function_confusion": 2,
+              "force_motion_law_error": 1,
+              "atomic_molecular_confusion": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "force_motion_law_error": 3,
+              "atomic_molecular_confusion": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "organ_system_function_error": 1,
+              "chemical_vs_physical_change": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S30",
+      "grade": 7,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 8,
+          "rootGap": 2,
+          "hiddenGap": true,
+          "mistakes": {
+            "subtracted_smaller_from_larger_digit": 1,
+            "add_instead_of_subtract": 1,
+            "borrowing_tens_not_reduced": 1
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 9,
+          "rootGap": 2,
+          "hiddenGap": true,
+          "mistakes": {
+            "borrowing_tens_not_reduced": 1,
+            "table_skip_error": 1
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 9,
+          "rootGap": 2,
+          "hiddenGap": true,
+          "mistakes": {
+            "place_value_shift": 2,
+            "subtracted_smaller_from_larger_digit": 2,
+            "add_instead_of_subtract": 2
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 8,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "subtracted_smaller_from_larger_digit": 1,
+              "add_instead_of_subtract": 1,
+              "borrowing_tens_not_reduced": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 9,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "borrowing_tens_not_reduced": 1,
+              "table_skip_error": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 9,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "place_value_shift": 2,
+              "subtracted_smaller_from_larger_digit": 2,
+              "add_instead_of_subtract": 2
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 5,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "tense_form_error": 2,
+              "noun_verb_confusion": 3,
+              "plural_rule_error": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 5,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "tense_form_error": 2,
+              "subject_verb_agreement": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 5,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "punctuation_comma_splice": 1,
+              "noun_verb_confusion": 2,
+              "tense_form_error": 2
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 6,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "force_motion_law_error": 1,
+              "states_of_matter_confusion": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 6,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "states_of_matter_confusion": 1,
+              "herbivore_carnivore_omnivore": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 7,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "habitat_adaptation_confusion": 1,
+              "force_motion_law_error": 3,
+              "states_of_matter_confusion": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S31",
+      "grade": 8,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 9,
+          "rootGap": 10,
+          "hiddenGap": false,
+          "mistakes": {
+            "division_by_wrong_step": 1,
+            "table_skip_error": 1
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 9,
+          "rootGap": 10,
+          "hiddenGap": false,
+          "mistakes": {
+            "table_skip_error": 2,
+            "pythagoras_added_not_squared": 3
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 10,
+          "rootGap": null,
+          "hiddenGap": false,
+          "mistakes": {}
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "division_by_wrong_step": 1,
+              "table_skip_error": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "table_skip_error": 2,
+              "pythagoras_added_not_squared": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 6,
+            "rootGap": 7,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 1,
+              "conjunction_logic_error": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "contextual_vocabulary_error": 1,
+              "reported_speech_shift": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "contextual_vocabulary_error": 3,
+              "clause_boundary_error": 1,
+              "reported_speech_shift": 1
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "cell_organelle_confusion": 1,
+              "chemical_vs_physical_change": 1,
+              "force_motion_law_error": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "chemical_vs_physical_change": 3,
+              "cell_organelle_confusion": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "force_motion_law_error": 1,
+              "plant_part_function_confusion": 2,
+              "atomic_molecular_confusion": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S32",
+      "grade": 8,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 8,
+          "rootGap": 9,
+          "hiddenGap": false,
+          "mistakes": {
+            "sign_error": 3,
+            "slope_formula_inverted": 3
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 8,
+          "rootGap": 9,
+          "hiddenGap": false,
+          "mistakes": {
+            "only_one_side": 2,
+            "count_offset": 2,
+            "table_skip_error": 3
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 8,
+          "rootGap": 9,
+          "hiddenGap": false,
+          "mistakes": {
+            "only_one_side": 1,
+            "count_offset": 2,
+            "sign_error": 3
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "sign_error": 3,
+              "slope_formula_inverted": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "only_one_side": 2,
+              "count_offset": 2,
+              "table_skip_error": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "only_one_side": 1,
+              "count_offset": 2,
+              "sign_error": 3
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "punctuation_comma_splice": 3,
+              "literal_interpretation_error": 3,
+              "clause_boundary_error": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "clause_boundary_error": 1,
+              "literal_interpretation_error": 3,
+              "punctuation_comma_splice": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 2,
+              "conjunction_logic_error": 2
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "atomic_molecular_confusion": 3,
+              "force_motion_law_error": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "plant_part_function_confusion": 3,
+              "force_motion_law_error": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "plant_part_function_confusion": 1,
+              "force_motion_law_error": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S33",
+      "grade": 8,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 7,
+          "rootGap": 8,
+          "hiddenGap": false,
+          "mistakes": {
+            "division_by_wrong_step": 2,
+            "added_instead_of_multiplied": 2
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 8,
+          "rootGap": 9,
+          "hiddenGap": false,
+          "mistakes": {
+            "table_skip_error": 3,
+            "slope_formula_inverted": 2,
+            "sign_error": 2
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 8,
+          "rootGap": 9,
+          "hiddenGap": false,
+          "mistakes": {
+            "count_offset": 2,
+            "table_skip_error": 3,
+            "sign_error": 1
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "division_by_wrong_step": 2,
+              "added_instead_of_multiplied": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "table_skip_error": 3,
+              "slope_formula_inverted": 2,
+              "sign_error": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "count_offset": 2,
+              "table_skip_error": 3,
+              "sign_error": 1
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "clause_boundary_error": 1,
+              "punctuation_comma_splice": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 2,
+              "punctuation_comma_splice": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "punctuation_comma_splice": 2,
+              "clause_boundary_error": 2,
+              "literal_interpretation_error": 2
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "force_motion_law_error": 1,
+              "cell_organelle_confusion": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "chemical_vs_physical_change": 1,
+              "force_motion_law_error": 3,
+              "cell_organelle_confusion": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "force_motion_law_error": 1,
+              "chemical_vs_physical_change": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S34",
+      "grade": 8,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 9,
+          "rootGap": 10,
+          "hiddenGap": false,
+          "mistakes": {
+            "table_skip_error": 2,
+            "quadratic_sign_error": 3,
+            "pythagoras_added_not_squared": 3
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 10,
+          "rootGap": null,
+          "hiddenGap": false,
+          "mistakes": {}
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 10,
+          "rootGap": null,
+          "hiddenGap": false,
+          "mistakes": {}
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "table_skip_error": 2,
+              "quadratic_sign_error": 3,
+              "pythagoras_added_not_squared": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "clause_boundary_error": 3,
+              "literal_interpretation_error": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "punctuation_comma_splice": 3,
+              "literal_interpretation_error": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "conjunction_logic_error": 2,
+              "literal_interpretation_error": 1,
+              "punctuation_comma_splice": 2
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "force_motion_law_error": 3,
+              "chemical_vs_physical_change": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "cell_organelle_confusion": 3,
+              "force_motion_law_error": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "chemical_vs_physical_change": 2,
+              "cell_organelle_confusion": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S35",
+      "grade": 8,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 8,
+          "rootGap": 1,
+          "hiddenGap": true,
+          "mistakes": {
+            "place_value_shift": 1,
+            "count_offset": 3,
+            "expanded_form_written_together": 2
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 8,
+          "rootGap": 1,
+          "hiddenGap": true,
+          "mistakes": {
+            "place_value_shift": 1,
+            "expanded_form_written_together": 3,
+            "count_offset": 1
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 8,
+          "rootGap": 1,
+          "hiddenGap": true,
+          "mistakes": {
+            "expanded_form_written_together": 3,
+            "digits_reversed": 2
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 8,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "place_value_shift": 1,
+              "count_offset": 3,
+              "expanded_form_written_together": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 8,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "place_value_shift": 1,
+              "expanded_form_written_together": 3,
+              "count_offset": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 8,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "expanded_form_written_together": 3,
+              "digits_reversed": 2
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 7,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "noun_verb_confusion": 2,
+              "letter_sound_confusion": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 7,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "noun_verb_confusion": 3,
+              "letter_sound_confusion": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 7,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "letter_sound_confusion": 2,
+              "noun_verb_confusion": 1
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 7,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "living_characteristic_error": 2,
+              "body_part_function_error": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 7,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "body_part_function_error": 1,
+              "living_characteristic_error": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 7,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "body_part_function_error": 1,
+              "living_characteristic_error": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S36",
+      "grade": 8,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 8,
+          "rootGap": 9,
+          "hiddenGap": false,
+          "mistakes": {
+            "place_value_shift": 1,
+            "sign_error": 2,
+            "count_offset": 2
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 9,
+          "rootGap": 10,
+          "hiddenGap": false,
+          "mistakes": {
+            "table_skip_error": 2,
+            "quadratic_sign_error": 3,
+            "division_by_wrong_step": 1
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 9,
+          "rootGap": 10,
+          "hiddenGap": false,
+          "mistakes": {
+            "division_by_wrong_step": 3,
+            "pythagoras_added_not_squared": 3
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "place_value_shift": 1,
+              "sign_error": 2,
+              "count_offset": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "table_skip_error": 2,
+              "quadratic_sign_error": 3,
+              "division_by_wrong_step": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "division_by_wrong_step": 3,
+              "pythagoras_added_not_squared": 3
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "clause_boundary_error": 1,
+              "punctuation_comma_splice": 2,
+              "literal_interpretation_error": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "punctuation_comma_splice": 3,
+              "literal_interpretation_error": 3,
+              "clause_boundary_error": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "clause_boundary_error": 2,
+              "literal_interpretation_error": 3
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "chemical_vs_physical_change": 2,
+              "cell_organelle_confusion": 3,
+              "force_motion_law_error": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "organ_system_function_error": 1,
+              "plant_part_function_confusion": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "force_motion_law_error": 1,
+              "plant_part_function_confusion": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S37",
+      "grade": 9,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 9,
+          "rootGap": 10,
+          "hiddenGap": false,
+          "mistakes": {
+            "table_skip_error": 1,
+            "quadratic_sign_error": 1
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 9,
+          "rootGap": 10,
+          "hiddenGap": false,
+          "mistakes": {
+            "table_skip_error": 1,
+            "quadratic_sign_error": 1,
+            "pythagoras_added_not_squared": 3
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 9,
+          "rootGap": 10,
+          "hiddenGap": false,
+          "mistakes": {
+            "table_skip_error": 2,
+            "division_by_wrong_step": 1,
+            "pythagoras_added_not_squared": 2
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "table_skip_error": 1,
+              "quadratic_sign_error": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "table_skip_error": 1,
+              "quadratic_sign_error": 1,
+              "pythagoras_added_not_squared": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "table_skip_error": 2,
+              "division_by_wrong_step": 1,
+              "pythagoras_added_not_squared": 2
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "clause_boundary_error": 3,
+              "punctuation_comma_splice": 3,
+              "literal_interpretation_error": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "punctuation_comma_splice": 2,
+              "literal_interpretation_error": 1,
+              "clause_boundary_error": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 1,
+              "punctuation_comma_splice": 2
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "force_motion_law_error": 1,
+              "atomic_molecular_confusion": 3,
+              "plant_part_function_confusion": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "circuit_electricity_error": 3,
+              "chemical_vs_physical_change": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "circuit_electricity_error": 1,
+              "chemical_vs_physical_change": 1,
+              "organ_system_function_error": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S38",
+      "grade": 9,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 9,
+          "rootGap": 10,
+          "hiddenGap": false,
+          "mistakes": {
+            "quadratic_sign_error": 1,
+            "pythagoras_added_not_squared": 2
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 9,
+          "rootGap": 10,
+          "hiddenGap": false,
+          "mistakes": {
+            "table_skip_error": 1,
+            "pythagoras_added_not_squared": 2,
+            "quadratic_sign_error": 3
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 9,
+          "rootGap": 10,
+          "hiddenGap": false,
+          "mistakes": {
+            "table_skip_error": 3,
+            "division_by_wrong_step": 3,
+            "quadratic_sign_error": 1
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "quadratic_sign_error": 1,
+              "pythagoras_added_not_squared": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "table_skip_error": 1,
+              "pythagoras_added_not_squared": 2,
+              "quadratic_sign_error": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "table_skip_error": 3,
+              "division_by_wrong_step": 3,
+              "quadratic_sign_error": 1
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 3,
+              "punctuation_comma_splice": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 3,
+              "clause_boundary_error": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 3,
+              "punctuation_comma_splice": 1
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 7,
+            "rootGap": 8,
+            "hiddenGap": false,
+            "mistakes": {
+              "chemical_vs_physical_change": 2,
+              "cell_organelle_confusion": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "organ_system_function_error": 1,
+              "force_motion_law_error": 2,
+              "atomic_molecular_confusion": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 8,
+            "rootGap": 9,
+            "hiddenGap": false,
+            "mistakes": {
+              "force_motion_law_error": 3,
+              "organ_system_function_error": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S39",
+      "grade": 9,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 10,
+          "rootGap": null,
+          "hiddenGap": false,
+          "mistakes": {}
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 10,
+          "rootGap": null,
+          "hiddenGap": false,
+          "mistakes": {}
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 10,
+          "rootGap": null,
+          "hiddenGap": false,
+          "mistakes": {}
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 2,
+              "punctuation_comma_splice": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "organ_system_function_error": 3,
+              "chemical_vs_physical_change": 2,
+              "circuit_electricity_error": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "organ_system_function_error": 3,
+              "chemical_vs_physical_change": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "chemical_vs_physical_change": 1,
+              "circuit_electricity_error": 1,
+              "organ_system_function_error": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S40",
+      "grade": 9,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 9,
+          "rootGap": 2,
+          "hiddenGap": true,
+          "mistakes": {
+            "add_instead_of_subtract": 1,
+            "subtracted_smaller_from_larger_digit": 3
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 9,
+          "rootGap": 2,
+          "hiddenGap": true,
+          "mistakes": {
+            "table_skip_error": 3,
+            "added_instead_of_multiplied": 1,
+            "place_value_shift": 2
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 10,
+          "rootGap": 2,
+          "hiddenGap": true,
+          "mistakes": {
+            "table_skip_error": 1,
+            "add_instead_of_subtract": 3,
+            "borrowing_tens_not_reduced": 1
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 9,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "add_instead_of_subtract": 1,
+              "subtracted_smaller_from_larger_digit": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 9,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "table_skip_error": 3,
+              "added_instead_of_multiplied": 1,
+              "place_value_shift": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 10,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "table_skip_error": 1,
+              "add_instead_of_subtract": 3,
+              "borrowing_tens_not_reduced": 1
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 9,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "article_error": 3,
+              "noun_verb_confusion": 1,
+              "punctuation_comma_splice": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 9,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "tense_form_error": 1,
+              "article_error": 1,
+              "plural_rule_error": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 9,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "plural_rule_error": 3,
+              "subject_verb_agreement": 3,
+              "punctuation_comma_splice": 1
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 10,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "herbivore_carnivore_omnivore": 3,
+              "living_characteristic_error": 1,
+              "force_motion_law_error": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 10,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "herbivore_carnivore_omnivore": 2,
+              "force_motion_law_error": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 10,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "states_of_matter_confusion": 1,
+              "herbivore_carnivore_omnivore": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S41",
+      "grade": 9,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 10,
+          "rootGap": null,
+          "hiddenGap": false,
+          "mistakes": {}
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 10,
+          "rootGap": null,
+          "hiddenGap": false,
+          "mistakes": {}
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 10,
+          "rootGap": null,
+          "hiddenGap": false,
+          "mistakes": {}
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 3,
+              "plural_rule_error": 1,
+              "subject_verb_agreement": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "circuit_electricity_error": 3,
+              "chemical_vs_physical_change": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "chemical_vs_physical_change": 2,
+              "circuit_electricity_error": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "S42",
+      "grade": 9,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 10,
+          "rootGap": 2,
+          "hiddenGap": true,
+          "mistakes": {
+            "added_instead_of_multiplied": 1,
+            "add_instead_of_subtract": 2
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 10,
+          "rootGap": 2,
+          "hiddenGap": true,
+          "mistakes": {
+            "borrowing_tens_not_reduced": 3,
+            "add_instead_of_subtract": 2,
+            "subtracted_smaller_from_larger_digit": 3
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 10,
+          "rootGap": 2,
+          "hiddenGap": true,
+          "mistakes": {
+            "table_skip_error": 3,
+            "place_value_shift": 3
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 10,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "added_instead_of_multiplied": 1,
+              "add_instead_of_subtract": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 10,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "borrowing_tens_not_reduced": 3,
+              "add_instead_of_subtract": 2,
+              "subtracted_smaller_from_larger_digit": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 10,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "table_skip_error": 3,
+              "place_value_shift": 3
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 7,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "subject_verb_agreement": 3,
+              "punctuation_comma_splice": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 7,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "noun_verb_confusion": 3,
+              "plural_rule_error": 3,
+              "article_error": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 8,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "subject_verb_agreement": 2,
+              "plural_rule_error": 1
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 10,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "states_of_matter_confusion": 2,
+              "habitat_adaptation_confusion": 1,
+              "force_motion_law_error": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 10,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "force_motion_law_error": 2,
+              "states_of_matter_confusion": 3,
+              "habitat_adaptation_confusion": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 10,
+            "rootGap": 2,
+            "hiddenGap": true,
+            "mistakes": {
+              "herbivore_carnivore_omnivore": 3,
+              "habitat_adaptation_confusion": 2,
+              "living_characteristic_error": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S43",
+      "grade": 10,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 10,
+          "rootGap": null,
+          "hiddenGap": false,
+          "mistakes": {}
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 10,
+          "rootGap": null,
+          "hiddenGap": false,
+          "mistakes": {}
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 10,
+          "rootGap": null,
+          "hiddenGap": false,
+          "mistakes": {}
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "S44",
+      "grade": 10,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 10,
+          "rootGap": null,
+          "hiddenGap": false,
+          "mistakes": {}
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 10,
+          "rootGap": null,
+          "hiddenGap": false,
+          "mistakes": {}
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 10,
+          "rootGap": null,
+          "hiddenGap": false,
+          "mistakes": {}
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "conjunction_logic_error": 1,
+              "subject_verb_agreement": 3,
+              "literal_interpretation_error": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "plural_rule_error": 3,
+              "conjunction_logic_error": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "subject_verb_agreement": 3,
+              "literal_interpretation_error": 2
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "S45",
+      "grade": 10,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 9,
+          "rootGap": 1,
+          "hiddenGap": true,
+          "mistakes": {
+            "digits_reversed": 3,
+            "expanded_form_written_together": 3
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 10,
+          "rootGap": 1,
+          "hiddenGap": true,
+          "mistakes": {
+            "expanded_form_written_together": 1,
+            "count_offset": 3
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 10,
+          "rootGap": 1,
+          "hiddenGap": true,
+          "mistakes": {
+            "expanded_form_written_together": 3,
+            "digits_reversed": 1,
+            "place_value_shift": 1
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 9,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "digits_reversed": 3,
+              "expanded_form_written_together": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 10,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "expanded_form_written_together": 1,
+              "count_offset": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 10,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "expanded_form_written_together": 3,
+              "digits_reversed": 1,
+              "place_value_shift": 1
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 10,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "noun_verb_confusion": 3,
+              "letter_sound_confusion": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 10,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "letter_sound_confusion": 1,
+              "noun_verb_confusion": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 10,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "letter_sound_confusion": 3,
+              "noun_verb_confusion": 3
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 10,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "body_part_function_error": 1,
+              "living_characteristic_error": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 10,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "body_part_function_error": 3,
+              "living_characteristic_error": 2
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 10,
+            "rootGap": 1,
+            "hiddenGap": true,
+            "mistakes": {
+              "living_characteristic_error": 2,
+              "body_part_function_error": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "S46",
+      "grade": 10,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 10,
+          "rootGap": null,
+          "hiddenGap": false,
+          "mistakes": {}
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 10,
+          "rootGap": null,
+          "hiddenGap": false,
+          "mistakes": {}
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 10,
+          "rootGap": null,
+          "hiddenGap": false,
+          "mistakes": {}
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "conjunction_logic_error": 2,
+              "subject_verb_agreement": 1,
+              "punctuation_comma_splice": 3
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "subject_verb_agreement": 3,
+              "literal_interpretation_error": 1
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "conjunction_logic_error": 2,
+              "literal_interpretation_error": 3,
+              "punctuation_comma_splice": 1
+            }
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "S47",
+      "grade": 10,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 10,
+          "rootGap": null,
+          "hiddenGap": false,
+          "mistakes": {}
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 10,
+          "rootGap": null,
+          "hiddenGap": false,
+          "mistakes": {}
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 10,
+          "rootGap": null,
+          "hiddenGap": false,
+          "mistakes": {}
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 2,
+              "punctuation_comma_splice": 2,
+              "subject_verb_agreement": 1
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "literal_interpretation_error": 2,
+              "subject_verb_agreement": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "S48",
+      "grade": 10,
+      "band": "6-10",
+      "history": [
+        {
+          "week": 0,
+          "date": "2026-09-28",
+          "level": 9,
+          "rootGap": 10,
+          "hiddenGap": false,
+          "mistakes": {
+            "pythagoras_added_not_squared": 1,
+            "quadratic_sign_error": 2,
+            "table_skip_error": 2
+          }
+        },
+        {
+          "week": 1,
+          "date": "2026-10-05",
+          "level": 9,
+          "rootGap": 10,
+          "hiddenGap": false,
+          "mistakes": {
+            "quadratic_sign_error": 1,
+            "pythagoras_added_not_squared": 2,
+            "table_skip_error": 3
+          }
+        },
+        {
+          "week": 2,
+          "date": "2026-10-12",
+          "level": 9,
+          "rootGap": 10,
+          "hiddenGap": false,
+          "mistakes": {
+            "quadratic_sign_error": 1,
+            "table_skip_error": 1
+          }
+        }
+      ],
+      "subjects": {
+        "maths": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "pythagoras_added_not_squared": 1,
+              "quadratic_sign_error": 2,
+              "table_skip_error": 2
+            }
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "quadratic_sign_error": 1,
+              "pythagoras_added_not_squared": 2,
+              "table_skip_error": 3
+            }
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 9,
+            "rootGap": 10,
+            "hiddenGap": false,
+            "mistakes": {
+              "quadratic_sign_error": 1,
+              "table_skip_error": 1
+            }
+          }
+        ],
+        "english": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          }
+        ],
+        "science": [
+          {
+            "week": 0,
+            "date": "2026-09-28",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 1,
+            "date": "2026-10-05",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          },
+          {
+            "week": 2,
+            "date": "2026-10-12",
+            "level": 10,
+            "rootGap": null,
+            "hiddenGap": false,
+            "mistakes": {}
+          }
+        ]
+      }
+    }
+  ]
+}

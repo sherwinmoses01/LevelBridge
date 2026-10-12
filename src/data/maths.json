@@ -1,0 +1,1136 @@
+{
+  "meta": {
+    "name": "LevelBridge starter data",
+    "subject": "Maths (Class 1-10 continuous ladder)",
+    "note": "Starter content written with AI help. A teacher must review it against the school's own textbook before classroom use."
+  },
+  "levels": [
+    {
+      "id": 1,
+      "name": "Numbers to 99 and counting",
+      "classLabel": "Class 1",
+      "prerequisites": [],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Number bead line-up",
+        "steps": [
+          "Lay number flashcards 1 to 99 on the floor in sequence.",
+          "Call out a number ('find forty-seven') and ask students to point.",
+          "Ask what comes immediately before and after the target number."
+        ]
+      },
+      "selfPractice": "Complete missing number sequences in blocks of ten (e.g. 31, 32, __, 34)."
+    },
+    {
+      "id": 2,
+      "name": "Two-digit addition and subtraction, tables 2/5/10",
+      "classLabel": "Class 2",
+      "prerequisites": [
+        1
+      ],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Tens and units with sticks",
+        "steps": [
+          "Show numbers as bundles of ten sticks and loose single sticks.",
+          "To subtract with regrouping, unbundle one ten into ten ones.",
+          "Practice skip counting rhythmically by 2, 5, and 10."
+        ]
+      },
+      "selfPractice": "Pair practice: one partner creates a two-digit sum with counters, the other writes and solves."
+    },
+    {
+      "id": 3,
+      "name": "Multiplication tables to 10, 3-digit place value",
+      "classLabel": "Class 3",
+      "prerequisites": [
+        2
+      ],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Array grids and place value houses",
+        "steps": [
+          "Draw arrays of dots (e.g., 4 rows of 6) to connect repeated addition to multiplication.",
+          "Use three columns (Hundreds, Tens, Ones) with digit cards.",
+          "Chant multiplication tables 3 through 9 with clapping rhythms."
+        ]
+      },
+      "selfPractice": "Fill in blank cells on a 10 × 10 multiplication grid with a partner."
+    },
+    {
+      "id": 4,
+      "name": "Division, 4-digit numbers",
+      "classLabel": "Class 4",
+      "prerequisites": [
+        3,
+        2
+      ],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Fair sharing and thousand blocks",
+        "steps": [
+          "Distribute 24 counters equally into 4 cups to model 24 ÷ 4 = 6.",
+          "Introduce remainders using 25 counters divided into 4 cups.",
+          "Build 4-digit numbers using thousands, hundreds, tens, and units cards."
+        ]
+      },
+      "selfPractice": "Solve short division puzzle cards and check answers using multiplication."
+    },
+    {
+      "id": 5,
+      "name": "Fractions and decimals",
+      "classLabel": "Class 5",
+      "prerequisites": [
+        4
+      ],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Paper strip folding",
+        "steps": [
+          "Fold paper strips into halves, fourths, and eighths to show equivalent fractions.",
+          "Shade 3 out of 10 parts on a grid to represent both 3/10 and 0.3.",
+          "Add simple like fractions together on a number line."
+        ]
+      },
+      "selfPractice": "Match fraction cards (like 1/2, 2/4, 0.5) to their visual shaded diagrams."
+    },
+    {
+      "id": 6,
+      "name": "Factors, multiples, ratio, integers",
+      "classLabel": "Class 6",
+      "prerequisites": [
+        5
+      ],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Factor trees and temperature lines",
+        "steps": [
+          "Build factor rainbows for 24 and 36 on the chalkboard.",
+          "Draw a vertical thermometer line showing positive and negative integers.",
+          "Model simple ratios using red and blue bottle caps."
+        ]
+      },
+      "selfPractice": "Work in pairs to list all factors of given numbers and find their HCF."
+    },
+    {
+      "id": 7,
+      "name": "Percentages, simple equations",
+      "classLabel": "Class 7",
+      "prerequisites": [
+        6
+      ],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Hundred square grid and balance scales",
+        "steps": [
+          "Use 10x10 grids to convert fractions to percentages (e.g., 1/4 = 25%).",
+          "Draw a balance scale showing 'x + 5 = 12' to illustrate inverse operations.",
+          "Have students subtract 5 from both pans to isolate x."
+        ]
+      },
+      "selfPractice": "Solve one-step equation cards and substitute answers back to check balance."
+    },
+    {
+      "id": 8,
+      "name": "Algebraic expressions, linear equations, squares and roots",
+      "classLabel": "Class 8",
+      "prerequisites": [
+        7,
+        2
+      ],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Algebra tiles and square grids",
+        "steps": [
+          "Group like terms using colored algebra tiles (x-tiles vs unit squares).",
+          "Solve two-step linear equations: subtract constant, then divide by coefficient.",
+          "Illustrate squares and square roots using physical square dot arrays."
+        ]
+      },
+      "selfPractice": "Simplify algebraic expressions by combining like terms on practice cards."
+    },
+    {
+      "id": 9,
+      "name": "Linear equations and graphs",
+      "classLabel": "Class 9",
+      "prerequisites": [
+        8
+      ],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Coordinate plane plotting",
+        "steps": [
+          "Draw Cartesian axes on grid board; plot (x, y) coordinates.",
+          "Graph lines like y = 2x + 1 by making an input-output table.",
+          "Demonstrate gradient / slope as vertical rise over horizontal run."
+        ]
+      },
+      "selfPractice": "Plot coordinate pairs on grid paper and determine the slope of the line."
+    },
+    {
+      "id": 10,
+      "name": "Quadratic equations (factorising) and Pythagoras",
+      "classLabel": "Class 10",
+      "prerequisites": [
+        9,
+        3
+      ],
+      "teacherActivity": {
+        "minutes": 15,
+        "title": "Factor cross-method and 3-4-5 triangle",
+        "steps": [
+          "Factorise x^2 + 7x + 12 by finding two numbers that multiply to 12 and add to 7.",
+          "Verify roots by substituting x = -3 and x = -4.",
+          "Construct a 3-4-5 right triangle and verify a^2 + b^2 = c^2."
+        ]
+      },
+      "selfPractice": "Factorise quadratic expressions and solve for hypotenuses of right triangles."
+    }
+  ],
+  "mistakeTags": {
+    "digits_reversed": {
+      "label": "Digits swapped",
+      "explanation": "Look at place values: tens and ones are different columns. 54 is 5 tens and 4 ones, not 45."
+    },
+    "expanded_form_written_together": {
+      "label": "Wrote expanded form as digits",
+      "explanation": "When you write fifty-four, 50 and 4 combine into 54 without extra zeros."
+    },
+    "count_offset": {
+      "label": "Count shifted",
+      "explanation": "Count one by one carefully to avoid being one ahead or behind."
+    },
+    "add_instead_of_subtract": {
+      "label": "Added instead of subtracting",
+      "explanation": "Check the sign: minus (-) means take away, while plus (+) means combine."
+    },
+    "subtracted_smaller_from_larger_digit": {
+      "label": "Subtracted smaller digit from larger without regrouping",
+      "explanation": "When subtracting ones, if the bottom digit is bigger, borrow 1 ten from the tens column first."
+    },
+    "borrowing_tens_not_reduced": {
+      "label": "Forgot to reduce tens after borrowing",
+      "explanation": "Remember: when you borrow 1 ten, reduce the tens digit by 1 before finishing."
+    },
+    "table_skip_error": {
+      "label": "Multiplication skip-count off by one step",
+      "explanation": "Count groups carefully: 6 × 7 means 6 groups of 7, which is 42."
+    },
+    "added_instead_of_multiplied": {
+      "label": "Added instead of multiplying",
+      "explanation": "Multiplication means repeated groups, not simply adding the two numbers."
+    },
+    "place_value_shift": {
+      "label": "Place value column confused",
+      "explanation": "Check hundreds, tens, and units columns to keep each digit in its correct value."
+    },
+    "remainder_ignored": {
+      "label": "Remainder overlooked",
+      "explanation": "When dividing, any leftover amount must be accounted for as a remainder or fraction."
+    },
+    "division_by_wrong_step": {
+      "label": "Division step miscalculated",
+      "explanation": "Think: what number multiplied by the divisor gives the dividend?"
+    },
+    "added_numerators_and_denominators": {
+      "label": "Added denominators together",
+      "explanation": "When adding fractions with common denominators, add only the numerators: 2/5 + 1/5 = 3/5."
+    },
+    "multiplied_instead_of_divided_fraction": {
+      "label": "Fraction operation reversed",
+      "explanation": "Dividing by a fraction means multiplying by its reciprocal (flip the second fraction)."
+    },
+    "decimal_place_shift": {
+      "label": "Decimal point misaligned",
+      "explanation": "Align decimal points vertically before adding or subtracting decimals."
+    },
+    "percent_as_decimal_shift": {
+      "label": "Percentage conversion shifted",
+      "explanation": "Percent means per hundred: 70% is 70/100 = 0.7, not 0.07 or 7.0."
+    },
+    "ratio_order_swapped": {
+      "label": "Ratio order reversed",
+      "explanation": "Keep terms in the order given: ratio of red to blue means red comes first."
+    },
+    "sign_error": {
+      "label": "Negative sign rule error",
+      "explanation": "Subtracting a negative number is equivalent to adding: 5 - (-3) = 5 + 3 = 8."
+    },
+    "only_one_side": {
+      "label": "Applied operation to only one side of equation",
+      "explanation": "An equation is a balance: whatever you do to the left side, do to the right side."
+    },
+    "combined_unlike_terms": {
+      "label": "Combined unlike algebraic terms",
+      "explanation": "You can only combine like terms (e.g., 3x and 2x combine to 5x, but 3x + 2 remains 3x + 2)."
+    },
+    "slope_formula_inverted": {
+      "label": "Inverted gradient / slope",
+      "explanation": "Gradient is rise over run: (y2 - y1) / (x2 - x1), vertical change over horizontal change."
+    },
+    "quadratic_sign_error": {
+      "label": "Signs swapped in factorisation",
+      "explanation": "Check your factors by expanding back: (x + a)(x + b) must give the middle term and constant."
+    },
+    "pythagoras_added_not_squared": {
+      "label": "Added legs without squaring",
+      "explanation": "Pythagoras theorem states a^2 + b^2 = c^2, so square both legs before adding."
+    },
+    "area_perimeter_confusion": {
+      "label": "Confused area with perimeter",
+      "explanation": "Area is space inside (length × width), while perimeter is distance around the outside."
+    }
+  },
+  "questions": [
+    {
+      "id": "M1Q1",
+      "level": 1,
+      "prompt": "Which number is fifty-four?",
+      "options": [
+        "45",
+        "54",
+        "405",
+        "504"
+      ],
+      "answer": "54",
+      "wrongTags": {
+        "45": "digits_reversed",
+        "405": "digits_reversed",
+        "504": "expanded_form_written_together"
+      }
+    },
+    {
+      "id": "M1Q2",
+      "level": 1,
+      "prompt": "What number comes right after 69?",
+      "options": [
+        "60",
+        "68",
+        "70",
+        "79"
+      ],
+      "answer": "70",
+      "wrongTags": {
+        "60": "count_offset",
+        "68": "count_offset",
+        "79": "place_value_shift"
+      }
+    },
+    {
+      "id": "M1Q3",
+      "level": 1,
+      "prompt": "Which number is eighty-two?",
+      "options": [
+        "82",
+        "28",
+        "208",
+        "802"
+      ],
+      "answer": "82",
+      "wrongTags": {
+        "28": "digits_reversed",
+        "208": "digits_reversed",
+        "802": "expanded_form_written_together"
+      }
+    },
+    {
+      "id": "M1Q4",
+      "level": 1,
+      "prompt": "Which number is smaller: 38 or 83?",
+      "options": [
+        "83",
+        "380",
+        "830",
+        "38"
+      ],
+      "answer": "38",
+      "wrongTags": {
+        "83": "digits_reversed",
+        "380": "place_value_shift",
+        "830": "place_value_shift"
+      }
+    },
+    {
+      "id": "M1Q5",
+      "level": 1,
+      "prompt": "What is 30 + 7?",
+      "options": [
+        "27",
+        "37",
+        "73",
+        "307"
+      ],
+      "answer": "37",
+      "wrongTags": {
+        "27": "count_offset",
+        "73": "digits_reversed",
+        "307": "expanded_form_written_together"
+      }
+    },
+    {
+      "id": "M2Q1",
+      "level": 2,
+      "prompt": "What is 52 - 17?",
+      "options": [
+        "35",
+        "39",
+        "45",
+        "69"
+      ],
+      "answer": "35",
+      "wrongTags": {
+        "39": "subtracted_smaller_from_larger_digit",
+        "45": "borrowing_tens_not_reduced",
+        "69": "add_instead_of_subtract"
+      }
+    },
+    {
+      "id": "M2Q2",
+      "level": 2,
+      "prompt": "What is 28 + 15?",
+      "options": [
+        "13",
+        "33",
+        "43",
+        "41"
+      ],
+      "answer": "43",
+      "wrongTags": {
+        "13": "add_instead_of_subtract",
+        "33": "borrowing_tens_not_reduced",
+        "41": "count_offset"
+      }
+    },
+    {
+      "id": "M2Q3",
+      "level": 2,
+      "prompt": "What is 5 × 6?",
+      "options": [
+        "11",
+        "30",
+        "25",
+        "35"
+      ],
+      "answer": "30",
+      "wrongTags": {
+        "11": "added_instead_of_multiplied",
+        "25": "table_skip_error",
+        "35": "table_skip_error"
+      }
+    },
+    {
+      "id": "M2Q4",
+      "level": 2,
+      "prompt": "What is 63 - 28?",
+      "options": [
+        "31",
+        "45",
+        "91",
+        "35"
+      ],
+      "answer": "35",
+      "wrongTags": {
+        "31": "subtracted_smaller_from_larger_digit",
+        "45": "borrowing_tens_not_reduced",
+        "91": "add_instead_of_subtract"
+      }
+    },
+    {
+      "id": "M2Q5",
+      "level": 2,
+      "prompt": "What is 10 × 4?",
+      "options": [
+        "40",
+        "14",
+        "50",
+        "400"
+      ],
+      "answer": "40",
+      "wrongTags": {
+        "14": "added_instead_of_multiplied",
+        "50": "table_skip_error",
+        "400": "place_value_shift"
+      }
+    },
+    {
+      "id": "M3Q1",
+      "level": 3,
+      "prompt": "What is 7 × 8?",
+      "options": [
+        "15",
+        "48",
+        "56",
+        "54"
+      ],
+      "answer": "56",
+      "wrongTags": {
+        "15": "added_instead_of_multiplied",
+        "48": "table_skip_error",
+        "54": "table_skip_error"
+      }
+    },
+    {
+      "id": "M3Q2",
+      "level": 3,
+      "prompt": "In the number 472, what is the value of the digit 7?",
+      "options": [
+        "7",
+        "70",
+        "47",
+        "700"
+      ],
+      "answer": "70",
+      "wrongTags": {
+        "7": "place_value_shift",
+        "47": "digits_reversed",
+        "700": "place_value_shift"
+      }
+    },
+    {
+      "id": "M3Q3",
+      "level": 3,
+      "prompt": "What is 9 × 6?",
+      "options": [
+        "15",
+        "45",
+        "63",
+        "54"
+      ],
+      "answer": "54",
+      "wrongTags": {
+        "15": "added_instead_of_multiplied",
+        "45": "table_skip_error",
+        "63": "table_skip_error"
+      }
+    },
+    {
+      "id": "M3Q4",
+      "level": 3,
+      "prompt": "What is 6 × 7?",
+      "options": [
+        "42",
+        "13",
+        "36",
+        "48"
+      ],
+      "answer": "42",
+      "wrongTags": {
+        "13": "added_instead_of_multiplied",
+        "36": "table_skip_error",
+        "48": "table_skip_error"
+      }
+    },
+    {
+      "id": "M3Q5",
+      "level": 3,
+      "prompt": "What is 300 + 40 + 8?",
+      "options": [
+        "384",
+        "348",
+        "438",
+        "3048"
+      ],
+      "answer": "348",
+      "wrongTags": {
+        "384": "digits_reversed",
+        "438": "place_value_shift",
+        "3048": "expanded_form_written_together"
+      }
+    },
+    {
+      "id": "M4Q1",
+      "level": 4,
+      "prompt": "What is 48 ÷ 6?",
+      "options": [
+        "8",
+        "6",
+        "7",
+        "9"
+      ],
+      "answer": "8",
+      "wrongTags": {
+        "6": "division_by_wrong_step",
+        "7": "division_by_wrong_step",
+        "9": "division_by_wrong_step"
+      }
+    },
+    {
+      "id": "M4Q2",
+      "level": 4,
+      "prompt": "What is 72 ÷ 8?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "64"
+      ],
+      "answer": "9",
+      "wrongTags": {
+        "7": "division_by_wrong_step",
+        "8": "division_by_wrong_step",
+        "64": "table_skip_error"
+      }
+    },
+    {
+      "id": "M4Q3",
+      "level": 4,
+      "prompt": "In 5,420, what is the value of the digit 5?",
+      "options": [
+        "5",
+        "5,000",
+        "50",
+        "500"
+      ],
+      "answer": "5,000",
+      "wrongTags": {
+        "5": "place_value_shift",
+        "50": "place_value_shift",
+        "500": "place_value_shift"
+      }
+    },
+    {
+      "id": "M4Q4",
+      "level": 4,
+      "prompt": "What is 84 ÷ 4?",
+      "options": [
+        "18",
+        "20",
+        "22",
+        "21"
+      ],
+      "answer": "21",
+      "wrongTags": {
+        "18": "division_by_wrong_step",
+        "20": "division_by_wrong_step",
+        "22": "division_by_wrong_step"
+      }
+    },
+    {
+      "id": "M4Q5",
+      "level": 4,
+      "prompt": "What is 27 divided by 4?",
+      "options": [
+        "6 R 3",
+        "6",
+        "7",
+        "5 R 2"
+      ],
+      "answer": "6 R 3",
+      "wrongTags": {
+        "6": "remainder_ignored",
+        "7": "division_by_wrong_step",
+        "5 R 2": "division_by_wrong_step"
+      }
+    },
+    {
+      "id": "M5Q1",
+      "level": 5,
+      "prompt": "What is 2/5 + 1/5?",
+      "options": [
+        "3/10",
+        "3/5",
+        "2/10",
+        "3/25"
+      ],
+      "answer": "3/5",
+      "wrongTags": {
+        "3/10": "added_numerators_and_denominators",
+        "2/10": "added_numerators_and_denominators",
+        "3/25": "added_numerators_and_denominators"
+      }
+    },
+    {
+      "id": "M5Q2",
+      "level": 5,
+      "prompt": "What is 3/4 as a decimal?",
+      "options": [
+        "0.34",
+        "0.7",
+        "0.75",
+        "3.4"
+      ],
+      "answer": "0.75",
+      "wrongTags": {
+        "0.34": "percent_as_decimal_shift",
+        "0.7": "decimal_place_shift",
+        "3.4": "decimal_place_shift"
+      }
+    },
+    {
+      "id": "M5Q3",
+      "level": 5,
+      "prompt": "What is 0.4 + 0.35?",
+      "options": [
+        "0.75",
+        "0.39",
+        "0.79",
+        "7.5"
+      ],
+      "answer": "0.75",
+      "wrongTags": {
+        "0.39": "decimal_place_shift",
+        "0.79": "decimal_place_shift",
+        "7.5": "decimal_place_shift"
+      }
+    },
+    {
+      "id": "M5Q4",
+      "level": 5,
+      "prompt": "What is 5/6 - 2/6?",
+      "options": [
+        "3/0",
+        "3/12",
+        "7/6",
+        "3/6"
+      ],
+      "answer": "3/6",
+      "wrongTags": {
+        "3/0": "added_numerators_and_denominators",
+        "3/12": "added_numerators_and_denominators",
+        "7/6": "add_instead_of_subtract"
+      }
+    },
+    {
+      "id": "M5Q5",
+      "level": 5,
+      "prompt": "Which fraction is equal to 1/2?",
+      "options": [
+        "2/6",
+        "3/6",
+        "1/4",
+        "3/5"
+      ],
+      "answer": "3/6",
+      "wrongTags": {
+        "2/6": "place_value_shift",
+        "1/4": "place_value_shift",
+        "3/5": "place_value_shift"
+      }
+    },
+    {
+      "id": "M6Q1",
+      "level": 6,
+      "prompt": "What is the highest common factor (HCF) of 12 and 18?",
+      "options": [
+        "6",
+        "2",
+        "3",
+        "36"
+      ],
+      "answer": "6",
+      "wrongTags": {
+        "2": "division_by_wrong_step",
+        "3": "division_by_wrong_step",
+        "36": "table_skip_error"
+      }
+    },
+    {
+      "id": "M6Q2",
+      "level": 6,
+      "prompt": "What is 5 - (-3)?",
+      "options": [
+        "2",
+        "-2",
+        "8",
+        "-8"
+      ],
+      "answer": "8",
+      "wrongTags": {
+        "2": "sign_error",
+        "-2": "sign_error",
+        "-8": "sign_error"
+      }
+    },
+    {
+      "id": "M6Q3",
+      "level": 6,
+      "prompt": "In a class of 12 boys and 8 girls, what is the ratio of boys to girls in simplest form?",
+      "options": [
+        "2:3",
+        "3:2",
+        "6:4",
+        "3:5"
+      ],
+      "answer": "3:2",
+      "wrongTags": {
+        "2:3": "ratio_order_swapped",
+        "6:4": "place_value_shift",
+        "3:5": "ratio_order_swapped"
+      }
+    },
+    {
+      "id": "M6Q4",
+      "level": 6,
+      "prompt": "What is 70% written as a decimal?",
+      "options": [
+        "0.07",
+        "7.0",
+        "0.007",
+        "0.7"
+      ],
+      "answer": "0.7",
+      "wrongTags": {
+        "0.07": "percent_as_decimal_shift",
+        "7.0": "percent_as_decimal_shift",
+        "0.007": "percent_as_decimal_shift"
+      }
+    },
+    {
+      "id": "M6Q5",
+      "level": 6,
+      "prompt": "What is -4 + (-6)?",
+      "options": [
+        "-10",
+        "2",
+        "10",
+        "-2"
+      ],
+      "answer": "-10",
+      "wrongTags": {
+        "2": "sign_error",
+        "10": "sign_error",
+        "-2": "sign_error"
+      }
+    },
+    {
+      "id": "M7Q1",
+      "level": 7,
+      "prompt": "What is 20% of 80?",
+      "options": [
+        "8",
+        "16",
+        "24",
+        "40"
+      ],
+      "answer": "16",
+      "wrongTags": {
+        "8": "percent_as_decimal_shift",
+        "24": "table_skip_error",
+        "40": "percent_as_decimal_shift"
+      }
+    },
+    {
+      "id": "M7Q2",
+      "level": 7,
+      "prompt": "Solve for x: x + 7 = 19",
+      "options": [
+        "12",
+        "11",
+        "13",
+        "26"
+      ],
+      "answer": "12",
+      "wrongTags": {
+        "11": "count_offset",
+        "13": "count_offset",
+        "26": "add_instead_of_subtract"
+      }
+    },
+    {
+      "id": "M7Q3",
+      "level": 7,
+      "prompt": "Solve for y: 3y = 21",
+      "options": [
+        "6",
+        "18",
+        "7",
+        "24"
+      ],
+      "answer": "7",
+      "wrongTags": {
+        "6": "division_by_wrong_step",
+        "18": "add_instead_of_subtract",
+        "24": "add_instead_of_subtract"
+      }
+    },
+    {
+      "id": "M7Q4",
+      "level": 7,
+      "prompt": "A price increased from 50 to 60. What is the percentage increase?",
+      "options": [
+        "10%",
+        "25%",
+        "15%",
+        "20%"
+      ],
+      "answer": "20%",
+      "wrongTags": {
+        "10%": "percent_as_decimal_shift",
+        "25%": "percent_as_decimal_shift",
+        "15%": "percent_as_decimal_shift"
+      }
+    },
+    {
+      "id": "M7Q5",
+      "level": 7,
+      "prompt": "Solve for m: m - 9 = 15",
+      "options": [
+        "6",
+        "24",
+        "22",
+        "26"
+      ],
+      "answer": "24",
+      "wrongTags": {
+        "6": "add_instead_of_subtract",
+        "22": "count_offset",
+        "26": "count_offset"
+      }
+    },
+    {
+      "id": "M8Q1",
+      "level": 8,
+      "prompt": "Simplify the expression: 3x + 4 + 2x - 1",
+      "options": [
+        "8x",
+        "5x + 5",
+        "5x + 3",
+        "6x + 3"
+      ],
+      "answer": "5x + 3",
+      "wrongTags": {
+        "8x": "combined_unlike_terms",
+        "5x + 5": "sign_error",
+        "6x + 3": "table_skip_error"
+      }
+    },
+    {
+      "id": "M8Q2",
+      "level": 8,
+      "prompt": "If x = 4, what is the value of 2x + 3?",
+      "options": [
+        "11",
+        "9",
+        "14",
+        "24"
+      ],
+      "answer": "11",
+      "wrongTags": {
+        "9": "added_instead_of_multiplied",
+        "14": "table_skip_error",
+        "24": "expanded_form_written_together"
+      }
+    },
+    {
+      "id": "M8Q3",
+      "level": 8,
+      "prompt": "What is sqrt(49)?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "24.5"
+      ],
+      "answer": "7",
+      "wrongTags": {
+        "6": "table_skip_error",
+        "8": "table_skip_error",
+        "24.5": "division_by_wrong_step"
+      }
+    },
+    {
+      "id": "M8Q4",
+      "level": 8,
+      "prompt": "Solve for x: 2x + 5 = 17",
+      "options": [
+        "7",
+        "11",
+        "22",
+        "6"
+      ],
+      "answer": "6",
+      "wrongTags": {
+        "7": "count_offset",
+        "11": "only_one_side",
+        "22": "add_instead_of_subtract"
+      }
+    },
+    {
+      "id": "M8Q5",
+      "level": 8,
+      "prompt": "What is 3^2 + 4^2?",
+      "options": [
+        "25",
+        "14",
+        "24",
+        "49"
+      ],
+      "answer": "25",
+      "wrongTags": {
+        "14": "added_instead_of_multiplied",
+        "24": "table_skip_error",
+        "49": "pythagoras_added_not_squared"
+      }
+    },
+    {
+      "id": "M9Q1",
+      "level": 9,
+      "prompt": "Solve for x: 3x - 4 = 14",
+      "options": [
+        "5",
+        "6",
+        "10",
+        "18"
+      ],
+      "answer": "6",
+      "wrongTags": {
+        "5": "count_offset",
+        "10": "only_one_side",
+        "18": "only_one_side"
+      }
+    },
+    {
+      "id": "M9Q2",
+      "level": 9,
+      "prompt": "What is the slope (gradient) of the line passing through (2, 2) and (5, 8)?",
+      "options": [
+        "3",
+        "6",
+        "2",
+        "0.5"
+      ],
+      "answer": "2",
+      "wrongTags": {
+        "3": "table_skip_error",
+        "6": "only_one_side",
+        "0.5": "slope_formula_inverted"
+      }
+    },
+    {
+      "id": "M9Q3",
+      "level": 9,
+      "prompt": "Solve for x: 4x + 7 = 2x + 19",
+      "options": [
+        "6",
+        "4",
+        "7",
+        "13"
+      ],
+      "answer": "6",
+      "wrongTags": {
+        "4": "count_offset",
+        "7": "count_offset",
+        "13": "only_one_side"
+      }
+    },
+    {
+      "id": "M9Q4",
+      "level": 9,
+      "prompt": "What is the y-intercept of the line y = 3x - 5?",
+      "options": [
+        "0",
+        "3",
+        "5",
+        "-5"
+      ],
+      "answer": "-5",
+      "wrongTags": {
+        "0": "place_value_shift",
+        "3": "slope_formula_inverted",
+        "5": "sign_error"
+      }
+    },
+    {
+      "id": "M9Q5",
+      "level": 9,
+      "prompt": "If 2x + 3y = 12 and x = 3, what is y?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "6"
+      ],
+      "answer": "2",
+      "wrongTags": {
+        "1": "count_offset",
+        "3": "count_offset",
+        "6": "only_one_side"
+      }
+    },
+    {
+      "id": "M10Q1",
+      "level": 10,
+      "prompt": "Factorise: x^2 + 5x + 6",
+      "options": [
+        "(x + 2)(x + 3)",
+        "(x - 2)(x - 3)",
+        "(x + 1)(x + 6)",
+        "(x + 5)(x + 1)"
+      ],
+      "answer": "(x + 2)(x + 3)",
+      "wrongTags": {
+        "(x - 2)(x - 3)": "quadratic_sign_error",
+        "(x + 1)(x + 6)": "quadratic_sign_error",
+        "(x + 5)(x + 1)": "quadratic_sign_error"
+      }
+    },
+    {
+      "id": "M10Q2",
+      "level": 10,
+      "prompt": "A right-angled triangle has legs of lengths 3 cm and 4 cm. What is the length of the hypotenuse?",
+      "options": [
+        "7 cm",
+        "6 cm",
+        "5 cm",
+        "25 cm"
+      ],
+      "answer": "5 cm",
+      "wrongTags": {
+        "7 cm": "pythagoras_added_not_squared",
+        "6 cm": "table_skip_error",
+        "25 cm": "pythagoras_added_not_squared"
+      }
+    },
+    {
+      "id": "M10Q3",
+      "level": 10,
+      "prompt": "Solve for x: x^2 - 9 = 0",
+      "options": [
+        "x = 3 only",
+        "x = 3 or -3",
+        "x = 9 or -9",
+        "x = 4.5"
+      ],
+      "answer": "x = 3 or -3",
+      "wrongTags": {
+        "x = 3 only": "quadratic_sign_error",
+        "x = 9 or -9": "pythagoras_added_not_squared",
+        "x = 4.5": "division_by_wrong_step"
+      }
+    },
+    {
+      "id": "M10Q4",
+      "level": 10,
+      "prompt": "In a right triangle, hypotenuse is 10 cm and one leg is 6 cm. What is the other leg?",
+      "options": [
+        "4 cm",
+        "16 cm",
+        "64 cm",
+        "8 cm"
+      ],
+      "answer": "8 cm",
+      "wrongTags": {
+        "4 cm": "pythagoras_added_not_squared",
+        "16 cm": "pythagoras_added_not_squared",
+        "64 cm": "pythagoras_added_not_squared"
+      }
+    },
+    {
+      "id": "M10Q5",
+      "level": 10,
+      "prompt": "What are the roots of the equation (x - 4)(x + 1) = 0?",
+      "options": [
+        "x = 4 or -1",
+        "x = -4 or 1",
+        "x = 4 or 1",
+        "x = -4 or -1"
+      ],
+      "answer": "x = 4 or -1",
+      "wrongTags": {
+        "x = -4 or 1": "quadratic_sign_error",
+        "x = 4 or 1": "quadratic_sign_error",
+        "x = -4 or -1": "quadratic_sign_error"
+      }
+    }
+  ]
+}
